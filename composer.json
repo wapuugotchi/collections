@@ -1,6 +1,6 @@
 {
   "name": "wapuu-gotchi/collection",
-  "description": "IONOS WordPress Mops",
+  "description": "Collection of wapuu gotchi elements",
   "type" : "wapuu-collection",
   "require": {
         "composer/installers": "~1.0"
