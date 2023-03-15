@@ -1,7 +1,7 @@
 {
   "name": "wapuu-gotchi/collection",
   "description": "Collection of wapuu gotchi elements",
-  "type" : "wapuu-collection",
+  "type" : "library",
   "require": {
         "composer/installers": "~1.0"
   },
