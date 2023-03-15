@@ -1,14 +1,11 @@
 {
   "name": "wapuu-gotchi/collection",
   "description": "Collection of wapuu gotchi elements",
-  "type" : "library",
+  "type" : "wordpress-plugin",
   "require": {
         "composer/installers": "~2.2"
   },
   "extra": {
     "installer-name": "wapuu-collection",
-     "installer-paths": {
-        "../img/{name}":  ["type:library"]
-      }
   }
 }
