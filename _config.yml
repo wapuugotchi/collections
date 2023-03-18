@@ -1,0 +1,14 @@
+source: "./"
+collections:
+  balls:
+    output: true
+  caps:
+    output: true
+  coats:
+    output: true
+  fur:
+    output: true
+  items:
+    output: true
+  shoes:
+    output: true

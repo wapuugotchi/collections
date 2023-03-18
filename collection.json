@@ -1,0 +1,24 @@
+---
+title: Wapuugotchi collection
+permalink: /collection.json
+meta: [name,author,description,published]
+---
+{
+    {% for collection in site.collections %}
+    {% unless collection.label == "posts" %}
+    "{{ collection.label }}":{
+        {% for item in collection.docs %}
+        "{{ item.slug }}": {
+            "meta": {
+                {% for var in page.meta %}
+                "{{ var }}": "{{ item[var] }}"{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+            },
+            "image": "{{ item.url  | absolute_url | replace: "meta.html", "image.svg" }}",
+            "preview": "{{ item.url  | absolute_url | replace: "meta.html", "preview.png" }}"
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    }{% unless forloop.last %},{% endunless %}
+    {% endunless %}
+    {% endfor %}
+}

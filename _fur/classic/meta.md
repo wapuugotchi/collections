@@ -1,0 +1,4 @@
+---
+slug: classic
+name: Classic
+---

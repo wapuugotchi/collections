@@ -1,0 +1,4 @@
+---
+slug: beige
+name: Beige
+---

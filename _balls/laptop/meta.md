@@ -1,0 +1,4 @@
+---
+slug: laptop
+name: Laptop
+---
