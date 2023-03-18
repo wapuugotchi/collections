@@ -7,7 +7,7 @@ permalink: index.html
 
 This API provides the wapuu collection for the wapuugotchi plugin. They can be found [here](https://api.wapuugotchi.com/collection.json).
 
-## Element structureU
+## Element structure
 
 The different parts are structured in folders e.g. the balls are placed under `/_balls`.
 Each element is placed in its own folder and needs a `image.svg`, `preview.png` and a `meta.md` file.
