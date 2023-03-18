@@ -1,4 +1,0 @@
----
-slug: pokemon
-name: Pokemon
----
