@@ -1,4 +1,5 @@
 source: "./"
+theme: jekyll-theme-cayman
 collections:
   balls:
     output: true

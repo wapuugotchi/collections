@@ -5,3 +5,4 @@ _site
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/wapuu-collection.iml
+Gemfile.lock
