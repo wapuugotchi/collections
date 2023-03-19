@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: WappuuGotchi Collection
 permalink: index.html
 ---
-# Wappuugotchi Collection
+# WappuuGotchi Collection
 
 This API provides the wapuu collection for the wapuugotchi plugin. They can be found [here](https://api.wapuugotchi.com/collection/).
 The schema can be found [here](https://api.wapuugotchi.com/schema/collection/).

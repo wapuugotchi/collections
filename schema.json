@@ -1,7 +1,6 @@
 ---
 title: Wapuugotchi collection JSON Schema
 permalink: /schema/collection/
-nav_exclude: true
 meta: [name,author,description,published,license]
 ---
 {

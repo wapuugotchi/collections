@@ -1,8 +1,5 @@
 source: "./"
-theme: just-the-docs
-search_enabled: false
-logo: "/assets/logo.svg"
-enable_copy_code_button: true
+theme: jekyll-theme-cayman
 collections:
   assets:
     output: true
