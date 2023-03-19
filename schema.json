@@ -43,15 +43,24 @@ meta: [name,author,description,published,license]
         }
     },
     "properties": {
-        {% for collection in site.collections %}{% unless collection.label == "posts" or collection.label == "assets" %}"{{ collection.label }}":{
-            "type": "object",
-            "patternProperties": {
-                "^[a-z].*": {
-                    "type": "object",
-                    "$ref": "/schema/element"
+        "collection": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "items": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "$ref": "/schema/element"
+                    }
+                },
+                "image": {
+                    "type": "string"
+                },
+                "caption": {
+                    "type": "string"
                 }
             }
-        }{% unless forloop.last %},{% endunless %}
-        {% endunless %}{% endfor %}
+        }
     }
 }
