@@ -1,0 +1,55 @@
+---
+title: Wapuugotchi collection JSON Schema
+permalink: /schema/collection/
+meta: [name,author,description,published,license]
+---
+{
+    "$id": "https://api.wapuugotchi.com/schema/collection",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "additionalProperties": false,
+    "type": "object",
+    "$defs": {
+        "https://api.wapuugotchi.com/schema/element": {
+            "$id": "https://api.wapuugotchi.com/schema/element",
+            "type": "object",
+            "properties": {
+                "meta": {
+                    "type": "object",
+                    "properties": {
+                        {% for var in page.meta %}"{{ var }}": {
+                            "type": "string"
+                        }{% unless forloop.last %},
+                        {% endunless %}{% endfor %}
+                    },
+                    "required": [
+                        {% for var in page.meta %}"{{ var }}"{% unless forloop.last %},
+                        {% endunless %}{% endfor %}
+                    ]
+                },
+                "image": {
+                    "type": "string"
+                },
+                "preview": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "meta",
+                "image",
+                "preview"
+            ]
+        }
+    },
+    "properties": {
+        {% for collection in site.collections %}{% unless collection.label == "posts" %}"{{ collection.label }}":{
+            "type": "object",
+            "patternProperties": {
+                "^[a-z].*": {
+                    "type": "object",
+                    "$ref": "/schema/element"
+                }
+            }
+        }{% unless forloop.last %},{% endunless %}
+        {% endunless %}{% endfor %}
+    }
+}
