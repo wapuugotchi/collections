@@ -7,7 +7,7 @@ meta: [name,author,description,published,license]
     "$id": "https://api.wapuugotchi.com/schema/collection",
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "additionalProperties": false,
-    "type": "object",
+    "type": "array",
     "$defs": {
         "https://api.wapuugotchi.com/schema/element": {
             "$id": "https://api.wapuugotchi.com/schema/element",
@@ -42,24 +42,22 @@ meta: [name,author,description,published,license]
             ]
         }
     },
-    "properties": {
-        "collection": {
-            "type": "array",
+    "items": {
+        "type": "array",
+        "items": {
+            "type": "object",
             "items": {
-                "type": "object",
+                "type": "array",
                 "items": {
-                    "type": "array",
-                    "items": {
-                        "type": "object",
-                        "$ref": "/schema/element"
-                    }
-                },
-                "image": {
-                    "type": "string"
-                },
-                "caption": {
-                    "type": "string"
+                    "type": "object",
+                    "$ref": "/schema/element"
                 }
+            },
+            "image": {
+                "type": "string"
+            },
+            "caption": {
+                "type": "string"
             }
         }
     }
