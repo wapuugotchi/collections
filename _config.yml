@@ -2,7 +2,7 @@ source: "./"
 theme: just-the-docs
 search_enabled: false
 logo: "/assets/logo.svg"
-favicon: "/assets/logo.svg"
+enable_copy_code_button: true
 collections:
   assets:
     output: true

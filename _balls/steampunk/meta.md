@@ -1,5 +1,5 @@
 ---
 slug: steampunk
 name: Steampunk
-price: 100
+price: 50
 ---

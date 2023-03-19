@@ -16,7 +16,7 @@ Each element is placed in its own folder and needs a `image.svg`, `preview.png` 
 The folder name needs to be written in **snake case**.
 
 The `meta.md` is written like this:
-```
+```md
 ---
 slug: classic
 name: Classic
