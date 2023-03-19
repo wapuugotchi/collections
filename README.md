@@ -29,6 +29,7 @@ Other optional values are:
 * description: the description for the element
 * published: the publishing date of the element
 * licsense: the license of the element
+* price: the needed coins for unlocking the element (default: 0)
 
 Scanned folders are:
 
