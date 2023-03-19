@@ -20,6 +20,7 @@ The `meta.md` is written like this:
 ---
 slug: classic
 name: Classic
+key: b5fb043f-76c6-41aa-9f3a-47bc445f52b7 (randomly generated)
 ---
 ```
 
