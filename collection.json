@@ -4,16 +4,22 @@ permalink: /collection/
 meta: [name,author,description,published,license]
 ---
 {
-    {% for collection in site.collections %}{% unless collection.label == "posts" or collection.label == "assets" %}"{{ collection.label }}":{
-        {% for item in collection.docs %}"{{ item.slug }}": {
-            "meta": { {% for var in page.meta %}
-                "{{ var }}": "{{ item[var] }}",{% endfor %}
-                "price": {% if item.price != nil %}{{ item.price }}{% else %}0{% endif %}
+    "collections": [
+        {% for collection in site.collections %}{% unless collection.label == "posts" or collection.label == "assets" or collection.label == "icons" %}{
+            "items": {
+                {% for item in collection.docs %}"{{ item.slug }}": {
+                    "meta": { {% for var in page.meta %}
+                        "{{ var }}": "{{ item[var] }}",{% endfor %}
+                        "price": {% if item.price != nil %}{{ item.price }}{% else %}0{% endif %}
+                    },
+                    "image": "{{ item.url  | absolute_url | replace: "meta.html", "image.svg" }}",
+                    "preview": "{{ item.url  | absolute_url | replace: "meta.html", "preview.png" }}"
+                }{% unless forloop.last %},
+                {% endunless %}{% endfor %}
             },
-            "image": "{{ item.url  | absolute_url | replace: "meta.html", "image.svg" }}",
-            "preview": "{{ item.url  | absolute_url | replace: "meta.html", "preview.png" }}"
-        }{% unless forloop.last %},{% endunless %}
-        {% endfor %}
-    }{% unless forloop.last %},
-    {% endunless %}{% endunless %}{% endfor %}
+            "image": "{{ site.baseurl }}{% link _assets/icons/{{ collection.label }}.svg %}",
+            "caption": "{{collection.label}}"
+        }{% unless forloop.last %},
+        {% endunless %}{% endunless %}{% endfor %}
+    ]
 }
