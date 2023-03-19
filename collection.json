@@ -17,7 +17,7 @@ meta: [name,author,description,published,license]
                 }{% unless forloop.last %},
                 {% endunless %}{% endfor %}
             },
-            "image": "{% link /assets/icons/{{ collection.label }}.svg %}",
+            "image": "{{ site.baseurl }}/assets/icons/{{ collection.label }}.svg",
             "caption": "{{collection.label}}"
         }{% unless forloop.last %},
         {% endunless %}{% endunless %}{% endfor %}
