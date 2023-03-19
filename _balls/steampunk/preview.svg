@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFCC00;}
+	.st1{fill:#FF8800;}
+	.st2{fill:#8C8C8C;}
+	.st3{fill:#AEAEAE;}
+	.st4{clip-path:url(#ClippingPath_1_);}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#763422;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#4E2318;}
+	.st7{clip-path:url(#SVGID_2_);}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#1B0601;fill-opacity:0.5176;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2D0902;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#AA908A;}
+	.st11{clip-path:url(#SVGID_4_);}
+	
+		.st12{fill:none;stroke:#040100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;stroke-opacity:0.2745;}
+	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#161616;}
+	.st14{clip-path:url(#SVGID_6_);}
+	
+		.st15{fill:none;stroke:#2A2A2A;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;stroke-opacity:0.3686;}
+	.st16{fill:none;stroke:#A2A2A2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;}
+	.st17{fill-rule:evenodd;clip-rule:evenodd;fill:#0F0F0F;fill-opacity:0.3176;}
+	.st18{fill-rule:evenodd;clip-rule:evenodd;fill:#904435;}
+	.st19{fill-rule:evenodd;clip-rule:evenodd;fill:#717171;}
+	.st20{clip-path:url(#SVGID_8_);}
+	
+		.st21{fill-rule:evenodd;clip-rule:evenodd;fill:#534340;stroke:#A3A1A1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;}
+	
+		.st22{fill-rule:evenodd;clip-rule:evenodd;fill:#353434;stroke:#A3A1A1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;}
+	
+		.st23{fill:none;stroke:#000000;stroke-width:0.85;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;stroke-opacity:0.1608;}
+	.st24{fill:none;stroke:#151515;stroke-width:0.85;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;}
+	
+		.st25{fill:none;stroke:#200C08;stroke-width:0.85;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;stroke-opacity:0.2902;}
+	
+		.st26{fill:none;stroke:#2A1410;stroke-width:0.85;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;stroke-opacity:0.3098;}
+	
+		.st27{fill:none;stroke:#2E2928;stroke-width:0.95;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;stroke-opacity:0.4196;}
+	.st28{fill:none;stroke:#2E2928;stroke-width:0.95;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;}
+	.st29{fill-rule:evenodd;clip-rule:evenodd;fill:#222222;fill-opacity:0.4157;}
+	.st30{fill-rule:evenodd;clip-rule:evenodd;fill:#E47962;}
+	.st31{fill-rule:evenodd;clip-rule:evenodd;fill:#A73F29;}
+	.st32{fill-rule:evenodd;clip-rule:evenodd;fill:#D0A89F;}
+	.st33{fill-rule:evenodd;clip-rule:evenodd;fill:#202020;fill-opacity:0.4157;}
+	.st34{fill-rule:evenodd;clip-rule:evenodd;fill:#FF6444;}
+	.st35{fill-rule:evenodd;clip-rule:evenodd;fill:#FF8E77;}
+	.st36{fill-rule:evenodd;clip-rule:evenodd;fill:#53261F;}
+	.st37{clip-path:url(#SVGID_10_);}
+	.st38{fill:none;stroke:#222222;stroke-width:0.45;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;}
+	.st39{fill-rule:evenodd;clip-rule:evenodd;fill:#101010;fill-opacity:0.4824;}
+	.st40{fill-rule:evenodd;clip-rule:evenodd;fill:#FFCEC4;}
+	.st41{fill-rule:evenodd;clip-rule:evenodd;fill:#635A5A;}
+	.st42{fill:none;stroke:#2B0900;stroke-width:0.85;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;}
+	.st43{fill:none;stroke:#2B0900;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4142;stroke-opacity:0.3059;}
+</style>
+<g id="RightArm_1_">
+	<path id="RightArm--bg" d="M436.6,504c-4.5,5.1-10.5,7.9-17,7.9c-9.1,0-18.5-5.5-24.4-14.4c-7.8-11.6-15.5-21.2-22.3-27.9l-4.8-4.7
+		c-2-2-1.1-5.3,1.6-6.1l6.5-1.7c3.2-0.9,6.4-2.7,9.1-5.5c3-3,4.8-6.7,5.2-10.4V430c0-1.3,1.5-2.1,2.5-1.3l9.3,6.9
+		c0.7,0.5,1.7,1.1,2.9,1.7c10.2,4.9,31.7,27.4,35.7,46.7C443,494.1,439.7,500.5,436.6,504z"/>
+	<path id="RightArm" class="st0" d="M402.1,444.1c-1.5-0.7-2.9-1.5-4.2-2.4l0,0c-0.5,5.5-3,11-7.3,15.3c-3.7,3.7-8.1,6.2-12.5,7.4
+		c8.7,8.6,17,19.8,23.2,29.1c4.5,6.7,11.6,11.1,18.3,11.1c4.1,0,8.1-1.6,11.4-5.4C444,484.4,413.7,449.6,402.1,444.1z"/>
+</g>
+<g id="Tail--group">
+	<path id="Tail--bg" d="M599.1,649.5c-9,25.7-26.4,50-50.3,70.3c-23.8,20.3-51.8,34.7-81,41.6c-6.9,1.6-14.1,2.5-21.5,2.5
+		c-30.8,0-58.9-13.9-74.8-27c-13.6-11.1-21.2-23.3-20.9-33.5c0.4-12,6.7-20.7,16.8-23.3c2.1-0.5,4.3-0.8,6.7-0.8
+		c11.2,0,27.2,6.7,38.5,25.7c7.8,13.2,22,20.1,41.1,20.1c0.4,0,0.8,0,1.2,0c40.7-0.8,87.6-31.2,109.1-70.8
+		c7.7-14.1,13.2-29.6,17.1-40.8c1.9-5.4,3.6-10.1,5.1-13.5c1.3-3.1,4.1-9.4,10.4-9.4c4.1,0,7.6,1.8,9.9,5
+		C612,603.2,609.8,618.9,599.1,649.5z"/>
+	<path id="Tail_2_" class="st1" d="M570.5,657.8c-22.7,41.7-72.5,73.9-115.5,74.7c-0.5,0-0.9,0-1.4,0c-21.6,0-38.3-8.4-47.4-23.8
+		c-9-15.1-22-22.1-32.1-22.1c-1.7,0-3.3,0.2-4.8,0.6c-7,1.8-11,7.6-11.3,16.4c-0.3,7.7,6.6,18,18.2,27.5
+		c16.8,13.7,43.2,25.3,70.1,25.3c6.6,0,13.3-0.7,19.8-2.3c57.2-13.5,108.5-57.4,126-107.1c5.4-15.3,16.7-49.2,4.5-49.2
+		C592.1,597.9,585.8,629.6,570.5,657.8z"/>
+</g>
+<g id="Body--group">
+	<path id="Body--bg" d="M649.7,531.9c-2,24-6.7,45.1-13.9,62.9c-8.5,20.9-20.3,36.6-35.1,46.8c-34,23.4-64.8,26-76.4,26
+		c-1.3,0-2.5,0-3.8-0.1c-18.4-0.8-26-4.4-32.7-7.5c-5.9-2.8-11-5.2-24.9-5.7c-37.5-1.5-67-9.9-83.1-23.6c-0.2-0.1-0.5-0.4-0.9-0.7
+		c-4.8-3.5-19.3-14.3-25-24.7c-5.3-9.7-6.2-22.3-2.3-31.4c13.4-31.2,24.5-40.5,33.5-48c3.6-3,6.4-5.3,8.8-8.7
+		c2.2-3.1,3.8-7.1,4.9-12.2c0-0.1,0-0.2,0.1-0.3c3.9-15,3.4-34.9,2.8-56c-0.2-5.7-0.3-11.7-0.4-17.5v-0.1c0-18.6,9.6-40.7,25.7-59.2
+		c18.1-20.8,41.6-33.6,66.1-36.2c20.2-2.1,34.3-3.1,45.9-3.1c43.7,0,58.6,14.8,82.2,48.4c7.5,10.6,12.1,22.5,16,33.7
+		C648.3,445.1,653.1,491.2,649.7,531.9z"/>
+	<path id="Body_1_" class="st0" d="M358.5,576.7c-3,7-2.2,17.4,2,25c5.6,10.3,23,22.2,24.1,23.2c15.1,12.9,43.7,20.5,78.7,21.9
+		c31.2,1.3,24.3,11.8,57.6,13.3c1.1,0,2.2,0.1,3.5,0.1c16.7,0,43.7-5,72.2-24.7c58-39.9,52.9-165.3,34-218.6
+		c-3.9-11.1-8.3-22.2-15.1-31.9c-23.5-33.5-36.6-45.2-76.2-45.2c-12.2,0-26.9,1.1-45.1,3.1c-49.9,5.3-85.3,55.3-85.3,88.1
+		c0.3,27.4,2.5,55.1-2.7,75.5c-1.4,6.5-3.4,11.2-6,14.9C390.4,534.9,376.8,533.8,358.5,576.7z"/>
+</g>
+<g id="RightHand--group">
+	<path id="RightHand--bg" d="M390.6,457c-5.2,5.1-11.7,8.1-17.8,8.1c-8.1,0-14-5.1-15.6-13.3c-1-5.4,0.9-11.3,5.4-16.7
+		c5.8-6.9,14.9-12,21.7-12.1h0.2c1.3,0,2.6,0.2,3.8,0.6h0.2l0.1,0.1c4.5,1.8,7.9,6.2,9.1,11.8C399.1,443,396.5,451,390.6,457z"/>
+	<path id="RightHand" class="st0" d="M385.4,451.7c4.2-4.2,6-9.6,5-14.7c-0.6-3.1-2.3-5.5-4.6-6.4c-0.4-0.1-0.9-0.2-1.3-0.2h-0.1
+		c-4,0-11.3,3.6-16.1,9.4c-1.8,2.1-4.6,6.3-3.8,10.6c1.1,6,5.1,7.3,8.3,7.3C376.9,457.7,381.6,455.5,385.4,451.7z"/>
+</g>
+<g id="RightFootGroup">
+	<path id="RightFoot--bg" d="M384.3,648c-2.4,3.7-6.4,5.7-11.5,5.7c-1.9,0-4-0.3-6.2-0.8c-25-6-59.3-43.6-63.6-64.5
+		c-1.9-9.4-0.2-18,5-24.4c4.6-5.7,11.4-8.8,18.9-8.8c6.8,0,13.6,2.5,19.8,7.3c12.2,9.4,32.9,50.5,37.3,60.7
+		C386.5,629,388.9,640.9,384.3,648z"/>
+	<path id="RightFoot_1_" class="st0" d="M310.1,586.8c3.8,18.2,36.2,53.6,58.1,58.8c1.7,0.4,3.2,0.6,4.5,0.6c3.4,0,4.7-1.3,5.4-2.3
+		c2.3-3.5,1.5-12.1-1-17.9c-6.1-13.9-25.3-50.3-35.1-57.8c-4.9-3.8-10.2-5.8-15.3-5.8c-5.3,0-10,2.2-13.2,6.1
+		C309.9,573.2,308.7,579.7,310.1,586.8z"/>
+</g>
+<g id="RightEar--group">
+	<path id="RightEar--bg" d="M413.3,399.4c-0.4,4.4-3.8,8.4-11.1,12.9c-4.7,3-10.2,5.5-13.9,6.5c-6.5,1.7-12.3,2.6-17.3,2.6
+		c-6.7,0-10.6-1.6-12.7-2.9c-4.8-3-4.4-7.2-4.2-8.5c0.5-3.1,2.9-5.5,5.9-6.2c3.5-0.8,13.5-5.8,23.6-12.6c4.2-2.9,10.7-4.8,16.1-4.8
+		c5.8,0,9.1,2.2,10.8,4.1C412.6,392.9,413.6,396,413.3,399.4z"/>
+	<path id="RightEar" class="st1" d="M361.4,411.3c0,0.3,0.4,0.7,0.9,0.9c1.1,0.7,3.6,1.8,8.8,1.8c4.3,0,9.5-0.8,15.4-2.3
+		c5.2-1.4,19.1-8.8,19.5-13c0.1-1.3-0.2-2.4-0.9-3.2c-1-1.1-2.8-1.7-5.3-1.7c-3.9,0-8.9,1.5-11.9,3.5c-8.5,5.7-20.5,12.5-26.1,13.7
+		C361.5,411.1,361.4,411.2,361.4,411.3z"/>
+</g>
+<g id="GearBall">
+	
+		<ellipse id="Ball--bg" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -236.4377 487.8127)" cx="470.6" cy="529.3" rx="133.5" ry="133.5"/>
+	<circle id="Grey" class="st2" cx="470.6" cy="529.3" r="126.1"/>
+	
+		<ellipse id="LightGrey" transform="matrix(0.1935 -0.9811 0.9811 0.1935 -151.9316 832.3439)" class="st3" cx="430.3" cy="508.6" rx="80.9" ry="73.8"/>
+	<path id="MiddleLine" d="M500.2,533c-11.4,0-22.9-0.6-34.4-1.9c-40.5-4.5-80.8-17.4-116.4-37.2l0.5-0.9
+		c75,41.7,164.6,50.3,246,23.6l0.3,0.9C564.9,527.8,532.7,533,500.2,533z"/>
+	<g>
+		<defs>
+			
+				<ellipse id="ClippingPath" transform="matrix(9.003421e-02 -0.9959 0.9959 9.003421e-02 -120.628 887.3195)" cx="425.3" cy="509.7" rx="69" ry="64.2"/>
+		</defs>
+		<clipPath id="ClippingPath_1_">
+			<use xlink:href="#ClippingPath"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="g173" class="st4">
+			<path id="fond" class="st5" d="M429.8,441.5c35.4,2.3,62.1,35.1,59.5,73.1c-2.5,38-33.3,66.9-68.7,64.6
+				c-35.4-2.3-62.1-35.1-59.5-73.1S394.5,439.2,429.8,441.5z"/>
+			<path id="ombre" class="st6" d="M485.1,446.5c-105.9-11.4-128.2,77.1-63.6,135c-65.8,1.6-114.7-49.6-89.3-127.2
+				C351.3,396.2,432.9,400.6,485.1,446.5z"/>
+			<g id="Roue-fond">
+				<g>
+					<defs>
+						<rect id="SVGID_1_" x="356.6" y="463.5" width="148.3" height="149.1"/>
+					</defs>
+					<clipPath id="SVGID_2_">
+						<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+					</clipPath>
+					<g id="g28" class="st7">
+						<g id="g26">
+							<g id="roue-fond-ombre">
+								
+									<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="4s" calcMode="linear" dur="20s" fill="remove" from="0,20.22242498397827,47.80959892272949" repeatCount="indefinite" restart="always" to="360,20.22242498397827,47.80959892272949" type="rotate">
+									</animateTransform>
+								<path id="path20" class="st8" d="M429.8,463.5l12.3,15.5l17.5-9.2l4.9,19.2l19.7-1.3l-3.3,19.5l18.6,6.9l-11,16.5l14.2,13.8
+									L486,555l7.3,18.4l-19.6,2.9l-0.8,19.8l-19.1-5.3l-8.8,17.7l-15.2-12.6l-15.2,12.6l-8.8-17.7l-19.1,5.3l-0.8-19.8l-19.6-2.9
+									l7.3-18.4L357,544.4l14.2-13.8l-11-16.5l18.6-6.9l-3.3-19.5l19.7,1.3l4.9-19.2l17.5,9.2L429.8,463.5z"/>
+							</g>
+							<g id="roue-fond-elem">
+								
+									<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="4s" calcMode="linear" dur="20s" fill="remove" from="0,20.53931474685669,48.286149978637695" repeatCount="indefinite" restart="always" to="360,20.53931474685669,48.286149978637695" type="rotate">
+									</animateTransform>
+								<path id="path23" class="st9" d="M431.6,466.1l12.3,15.5l17.5-9.2l4.9,19.2l19.7-1.3l-3.3,19.5l18.6,6.9l-11,16.5l14.2,13.8
+									l-16.7,10.6L495,576l-19.6,2.9l-0.8,19.8l-19.1-5.3l-8.8,17.7l-15.2-12.6L416.4,611l-8.8-17.7l-19.1,5.3l-0.8-19.8
+									l-19.6-2.9l7.3-18.4L358.8,547l14.2-13.8l-11-16.5l18.6-6.9l-3.3-19.5l19.7,1.3l4.9-19.2l17.5,9.2L431.6,466.1z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="Pipes">
+				<g id="g55">
+					<g id="Pipe2">
+						
+							<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="5.25s" calcMode="linear" dur=".5s" fill="remove" repeatCount="indefinite" restart="always" type="translate" values="0,0;0,-.05;0,-.1;0,-.5;0,-.1;0,-.05;0,0;0,0;0,0;0,0">
+							</animateTransform>
+						<path id="path31" class="st10" d="M383.5,533.7c0,0-0.1-27.4-0.1-31.6c0-2.4,1.9-4.6,5.5-4.6c3.5,0,5.6,2.3,5.6,4.7
+							c0,6.1,0,31.5,0,31.5L383.5,533.7z"/>
+						<g>
+							<defs>
+								<path id="SVGID_3_" d="M383.5,533.7c0,0-0.1-27.4-0.1-31.6c0-2.4,1.9-4.6,5.5-4.6c3.5,0,5.6,2.3,5.6,4.7
+									c0,6.1,0,31.5,0,31.5L383.5,533.7z"/>
+							</defs>
+							<clipPath id="SVGID_4_">
+								<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+							</clipPath>
+							<g id="g38" class="st11">
+								<path id="path36" class="st12" d="M392,492.9l-6.9,3.2l0.1,32.1"/>
+							</g>
+						</g>
+						<ellipse id="ellipse40" class="st13" cx="388.6" cy="501.5" rx="4.2" ry="3.1"/>
+					</g>
+					<g id="Pipe1">
+						
+							<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="5s" calcMode="linear" dur=".5s" fill="remove" repeatCount="indefinite" restart="always" type="translate" values="0,0;0,-.05;0,-.1;0,-.5;0,-.1;0,-.05;0,0;0,0;0,0;0,0">
+							</animateTransform>
+						<path id="path43" class="st10" d="M369.6,534.9c0,0-0.1-27.4-0.1-31.6c0-2.4,1.9-4.6,5.5-4.6c3.5,0,5.6,2.3,5.6,4.7
+							c0,6.1,0,31.5,0,31.5L369.6,534.9z"/>
+						<g>
+							<defs>
+								<path id="SVGID_5_" d="M369.6,534.9c0,0-0.1-27.4-0.1-31.6c0-2.4,1.9-4.6,5.5-4.6c3.5,0,5.6,2.3,5.6,4.7
+									c0,6.1,0,31.5,0,31.5L369.6,534.9z"/>
+							</defs>
+							<clipPath id="SVGID_6_">
+								<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+							</clipPath>
+							<g id="g50" class="st14">
+								<path id="path48" class="st12" d="M378.1,494.1l-6.9,3.2l0.1,32.1"/>
+							</g>
+						</g>
+						<ellipse id="ellipse52" class="st13" cx="374.8" cy="502.6" rx="4.2" ry="3.1"/>
+					</g>
+				</g>
+			</g>
+			<g id="Elements">
+				<g id="g168">
+					<g id="moteur-acier">
+						
+							<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur=".25s" fill="remove" repeatCount="indefinite" restart="always" type="translate" values="0,0;.1,-.1;0,0">
+							</animateTransform>
+						<g id="gros-tuyau">
+							<g id="g62">
+								<path id="path58" class="st15" d="M448.2,482.3c-38.2,44.4-43.7,84-16.5,119"/>
+								<path id="path60" class="st16" d="M445.1,481.1c-38.2,44.4-43.7,84-16.5,119"/>
+							</g>
+						</g>
+						<g id="Entree-piston">
+							<path id="path65" class="st17" d="M444.1,520l-29.1-24l7.8-4.4l24.1,20L444.1,520z"/>
+							<path id="path67" class="st18" d="M442.6,516.9l-29.1-24l7.8-4.4l24.1,20L442.6,516.9z"/>
+						</g>
+						<g id="Piston">
+							<path id="path70" class="st19" d="M461.3,501.9c-1.4,3-4.1,5.1-7.3,5.9c-3.2,0.7-6.6-0.1-9.1-2.2c-8.4-7-20-16.6-28.4-23.6
+								c-2.5-2.1-3.9-5.3-3.8-8.6c0.1-3.3,1.7-6.3,4.4-8.3c15.3-11,40.9-29.4,40.9-29.4l24.8,20.6
+								C482.7,456.3,469.3,484.8,461.3,501.9z"/>
+							<g>
+								<defs>
+									<path id="SVGID_7_" d="M383.5,533.7c0,0-0.1-27.4-0.1-31.6c0-2.4,1.9-4.6,5.5-4.6c3.5,0,5.6,2.3,5.6,4.7
+										c0,6.1,0,31.5,0,31.5L383.5,533.7z"/>
+								</defs>
+								<clipPath id="SVGID_8_">
+									<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+								</clipPath>
+								<g id="g88" class="st20">
+									<path id="path76" class="st21" d="M392.8,462.3l79.6,68.2"/>
+									<path id="path78" class="st21" d="M392.8,451.3l79.6,68.2"/>
+									<path id="path80" class="st21" d="M403.9,449.3l79.6,68.2"/>
+									<path id="path82" class="st21" d="M409.5,443.8l79.6,68.2"/>
+									<path id="path84" class="st21" d="M417,439.7l79.6,68.2"/>
+									<path id="path86" class="st22" d="M424.5,436.1l79.6,68.2"/>
+								</g>
+							</g>
+						</g>
+					</g>
+					<g id="Calque19">
+						<path id="path92" class="st23" d="M420.3,436.9c8.5,60.6,50.6,81,105.9,85.8"/>
+						<path id="path94" class="st24" d="M417.4,436.6c8.5,60.6,50.6,81,105.9,85.8"/>
+						<path id="path96" class="st25" d="M431.2,419.3c1.3,78.3,51.1,93.5,111.5,93.4"/>
+						<path id="path98" class="st24" d="M427.6,419.3c1.3,78.3,51.1,93.5,111.5,93.4"/>
+						<path id="path100" class="st26" d="M444.4,413.2c1.8,77.6,42.6,89,101.8,84.2"/>
+						<path id="path102" class="st24" d="M438.9,413.2c1.8,77.6,42.6,89,101.8,84.2"/>
+					</g>
+					<g id="Courroie">
+						
+							<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin=".5s" calcMode="linear" dur=".25s" fill="remove" repeatCount="indefinite" restart="always" type="translate" values="0,0;0,.2;0,0">
+							</animateTransform>
+						<path id="courroie-ombre" class="st27" d="M462.2,475.9L388,552.7l12.7,15.8l87.4-52"/>
+						<path id="courroie-element" class="st28" d="M461.5,473.6l-74.2,76.8l12.7,15.8l87.4-52"/>
+					</g>
+					<g id="g109">
+						
+							<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="1s" calcMode="linear" dur="10s" fill="remove" from="0,11.588799715042114,54.06439781188965" repeatCount="indefinite" restart="always" to="360,11.588799715042114,54.06439781188965" type="rotate">
+							</animateTransform>
+						<path id="roue-dentee-gauche-ombre" class="st29" d="M385.3,513.5c-3.7-0.2-7.5-0.1-11.2,0.5l-1.3,8.9
+							c-3.5,0.7-7,1.8-10.3,3.2l-6.1-6.6c-3.3,1.7-6.5,3.7-9.5,6l3.3,8.4c-2.7,2.4-5.2,5-7.3,7.9l-8.6-2.6c-2.1,3.1-3.8,6.4-5.2,9.9
+							l7,5.6c-1.2,3.4-2,6.9-2.4,10.5l-8.8,2c-0.2,3.7-0.1,7.5,0.5,11.2l8.9,1.3c0.7,3.5,1.8,7,3.2,10.3l-6.6,6.1
+							c1.7,3.3,3.7,6.5,6,9.5l8.4-3.3c2.4,2.7,5,5.2,7.9,7.3l-2.6,8.6c3.1,2.1,6.4,3.8,9.9,5.2l5.6-7c3.4,1.2,6.9,2,10.5,2.4l2,8.8
+							c3.7,0.2,7.5,0.1,11.2-0.5l1.3-8.9c3.5-0.7,7-1.8,10.3-3.2l6.1,6.6c3.3-1.7,6.5-3.7,9.5-6l-3.3-8.4c2.7-2.4,5.2-5,7.3-7.9
+							l8.6,2.6c2.1-3.1,3.8-6.4,5.2-9.9l-7-5.6c1.2-3.4,2-6.9,2.4-10.5l8.8-2c0.2-3.7,0.1-7.5-0.5-11.2l-8.9-1.3
+							c-0.7-3.5-1.8-7-3.2-10.3l6.6-6.1c-1.7-3.3-3.7-6.5-6-9.5l-8.4,3.3c-2.4-2.7-5-5.2-7.9-7.3l2.6-8.6c-3.1-2.1-6.4-3.8-9.9-5.2
+							l-5.6,7c-3.4-1.2-6.9-2-10.5-2.4L385.3,513.5z M381.6,559.1c6.3-0.3,11.6,4.6,11.9,10.9c0.3,6.3-4.6,11.6-10.9,11.9
+							c-6.3,0.3-11.6-4.6-11.9-10.9C370.4,564.7,375.3,559.4,381.6,559.1z"/>
+					</g>
+					<g id="Roue-dentee-gauche">
+						
+							<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="1s" calcMode="linear" dur="10s" fill="remove" from="0,11.285893440246582,54.38699913024902" repeatCount="indefinite" restart="always" to="360,11.285893440246582,54.38699913024902" type="rotate">
+							</animateTransform>
+						<path id="path111" class="st30" d="M383.7,515.3c-3.7-0.2-7.5-0.1-11.2,0.5l-1.3,8.9c-3.5,0.7-7,1.8-10.3,3.2l-6.1-6.6
+							c-3.3,1.7-6.5,3.7-9.5,6l3.3,8.4c-2.7,2.4-5.2,5-7.3,7.9l-8.6-2.6c-2.1,3.1-3.8,6.4-5.2,9.9l7,5.6c-1.2,3.4-2,6.9-2.4,10.5
+							l-8.8,2c-0.2,3.7-0.1,7.5,0.5,11.2l8.9,1.3c0.7,3.5,1.8,7,3.2,10.3l-6.6,6.1c1.7,3.3,3.7,6.5,6,9.5l8.4-3.3
+							c2.4,2.7,5,5.2,7.9,7.3l-2.6,8.6c3.1,2.1,6.4,3.8,9.9,5.2l5.6-7c3.4,1.2,6.9,2,10.5,2.4l2,8.8c3.7,0.2,7.5,0.1,11.2-0.5
+							l1.3-8.9c3.5-0.7,7-1.8,10.3-3.2l6.1,6.6c3.3-1.7,6.5-3.7,9.5-6l-3.3-8.4c2.7-2.4,5.2-5,7.3-7.9l8.6,2.6
+							c2.1-3.1,3.8-6.4,5.2-9.9l-7-5.6c1.2-3.4,2-6.9,2.4-10.5l8.8-2c0.2-3.7,0.1-7.5-0.5-11.2l-8.9-1.3c-0.7-3.5-1.8-7-3.2-10.3
+							l6.6-6.1c-1.7-3.3-3.7-6.5-6-9.5l-8.4,3.3c-2.4-2.7-5-5.2-7.9-7.3l2.6-8.6c-3.1-2.1-6.4-3.8-9.9-5.2l-5.6,7
+							c-3.4-1.2-6.9-2-10.5-2.4L383.7,515.3z M379.9,560.9c6.3-0.3,11.6,4.6,11.9,10.9c0.3,6.3-4.6,11.6-10.9,11.9
+							c-6.3,0.3-11.6-4.6-11.9-10.9C368.7,566.5,373.6,561.2,379.9,560.9z"/>
+						
+							<ellipse id="circle113" transform="matrix(0.9997 -2.512634e-02 2.512634e-02 0.9997 -14.3355 9.739)" class="st31" cx="380.4" cy="575.3" rx="41.7" ry="41.7"/>
+						<path id="path115" class="st32" d="M380.4,538.9l8,9.2l11.7-3.4l1.7,12.1l11.7,3.4l-5.1,11.1l8,9.2l-10.3,6.6l1.7,12.1h-12.2
+							l-5.1,11.1l-10.3-6.6l-10.3,6.6l-5.1-11.1h-12.2l1.7-12.1l-10.3-6.6l8-9.2l-5.1-11.1l11.7-3.4l1.7-12.1l11.7,3.4L380.4,538.9z
+							"/>
+					</g>
+					<g id="Carburateur">
+						
+							<ellipse id="circle118" transform="matrix(5.186239e-02 -0.9987 0.9987 5.186239e-02 -43.9073 944.9233)" class="st33" cx="475.7" cy="495.6" rx="31.6" ry="31.6"/>
+						
+							<ellipse id="circle120" transform="matrix(5.186235e-02 -0.9987 0.9987 5.186235e-02 -47.6331 945.9019)" class="st34" cx="474.3" cy="498" rx="31.6" ry="31.6"/>
+						<g id="carburateur-cadre">
+							
+								<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="1s" fill="remove" from="0,27.88920021057129,41.139801025390625" repeatCount="indefinite" restart="always" to="-360,27.88920021057129,41.139801025390625" type="rotate">
+								</animateTransform>
+							<path id="path122" class="st35" d="M458.1,484.1c3.4-5.4,9.9-8,16.1-6.4c2.7,0.7,5.5,1.4,8.2,2.1c6.2,1.6,10.7,7,11,13.4
+								c0.2,2.7,0.4,5.7,0.5,8.4c0.4,6.4-3.4,12.3-9.3,14.6c-2.6,1-5.3,2.1-7.9,3.1c-5.9,2.3-12.7,0.6-16.8-4.3
+								c-1.8-2.1-3.6-4.4-5.4-6.5c-4.1-4.9-4.5-11.9-1.1-17.3C455.1,489,456.7,486.5,458.1,484.1z"/>
+						</g>
+						<g id="carburateur-centre">
+							
+								<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="0s" calcMode="linear" dur="1s" fill="remove" from="0,28.088749885559082,41.007850646972656" repeatCount="indefinite" restart="always" to="-360,28.088749885559082,41.007850646972656" type="rotate">
+								</animateTransform>
+							<path id="path125" class="st36" d="M459.2,483.4c3.4-5.4,9.9-8,16.1-6.4c2.7,0.7,5.5,1.4,8.2,2.1c6.2,1.6,10.7,7,11,13.4
+								c0.2,2.7,0.4,5.7,0.5,8.4c0.4,6.4-3.4,12.3-9.3,14.6c-2.6,1-5.3,2.1-7.9,3.1c-5.9,2.3-12.7,0.6-16.8-4.3
+								c-1.8-2.1-3.6-4.4-5.4-6.5c-4.1-4.9-4.5-11.9-1.1-17.3C456.2,488.2,457.8,485.7,459.2,483.4z"/>
+							<circle id="ecrou" class="st32" cx="474.5" cy="498.5" r="4.8"/>
+							<g>
+								<defs>
+									<path id="SVGID_9_" d="M369.6,534.9c0,0-0.1-27.4-0.1-31.6c0-2.4,1.9-4.6,5.5-4.6c3.5,0,5.6,2.3,5.6,4.7
+										c0,6.1,0,31.5,0,31.5L369.6,534.9z"/>
+								</defs>
+								<clipPath id="SVGID_10_">
+									<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+								</clipPath>
+								<g id="g134" class="st37">
+									<path id="path132" class="st38" d="M479.3,490.8l-9.7,15.5"/>
+								</g>
+							</g>
+						</g>
+					</g>
+					<g id="Roue-dentee-droite">
+						<g id="g139">
+							
+								<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="1s" calcMode="linear" dur="6.675s" fill="remove" from="0,27.80020046234131,50.083900451660156" repeatCount="indefinite" restart="always" to="-360,27.80020046234131,50.083900451660156" type="rotate">
+								</animateTransform>
+							<path id="roue-dentee-droite-ombre" class="st39" d="M471,511.1c-3.7,0.1-7.3,0.7-10.8,1.9l-0.6,6.2
+								c-3.3,1.4-6.3,3.3-8.9,5.6l-5.9-2.1c-2.5,2.7-4.7,5.7-6.3,9l4,4.8c-1.3,3.3-2.1,6.8-2.3,10.3l-5.7,2.6
+								c0.1,3.7,0.7,7.3,1.9,10.8l6.2,0.6c1.4,3.3,3.3,6.3,5.6,8.9l-2.1,5.9c2.7,2.5,5.7,4.7,9,6.3l4.8-4c3.3,1.3,6.8,2.1,10.3,2.3
+								l2.6,5.7c3.7-0.1,7.3-0.7,10.8-1.9l0.6-6.2c3.3-1.4,6.3-3.3,8.9-5.6l5.9,2.1c2.5-2.7,4.7-5.7,6.3-9l-4-4.8
+								c1.3-3.3,2.1-6.8,2.3-10.3l5.7-2.6c-0.1-3.7-0.7-7.3-1.9-10.8l-6.2-0.6c-1.4-3.3-3.3-6.3-5.6-8.9l2.1-5.9
+								c-2.7-2.5-5.7-4.7-9-6.3l-4.8,4c-3.3-1.3-6.8-2.1-10.3-2.3L471,511.1z M470.5,541.1c4.1-0.7,7.9,2,8.6,6.1
+								c0.7,4.1-2,7.9-6.1,8.6c-4.1,0.7-7.9-2-8.6-6.1C463.7,545.7,466.5,541.8,470.5,541.1z"/>
+						</g>
+						<g id="roue-dentee-droite-elem">
+							
+								<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="1s" calcMode="linear" dur="6.675s" fill="remove" from="0,27.412100791931152,50.342899322509766" repeatCount="indefinite" restart="always" to="-360,27.412100791931152,50.342899322509766" type="rotate">
+								</animateTransform>
+							<path id="path141" class="st40" d="M468.8,512.5c-3.7,0.1-7.3,0.7-10.8,1.9l-0.6,6.2c-3.3,1.4-6.3,3.3-8.9,5.6l-5.9-2.1
+								c-2.5,2.7-4.7,5.7-6.3,9l4,4.8c-1.3,3.3-2.1,6.8-2.3,10.3l-5.7,2.6c0.1,3.7,0.7,7.3,1.9,10.8l6.2,0.6
+								c1.4,3.3,3.3,6.3,5.6,8.9l-2.1,5.9c2.7,2.5,5.7,4.7,9,6.3l4.8-4c3.3,1.3,6.8,2.1,10.3,2.3l2.6,5.7c3.7-0.1,7.3-0.7,10.8-1.9
+								l0.6-6.2c3.3-1.4,6.3-3.3,8.9-5.6l5.9,2.1c2.5-2.7,4.7-5.7,6.3-9l-4-4.8c1.3-3.3,2.1-6.8,2.3-10.3l5.7-2.6
+								c-0.1-3.7-0.7-7.3-1.9-10.8l-6.2-0.6c-1.4-3.3-3.3-6.3-5.6-8.9l2.1-5.9c-2.7-2.5-5.7-4.7-9-6.3l-4.8,4
+								c-3.3-1.3-6.8-2.1-10.3-2.3L468.8,512.5z M468.4,542.6c4.1-0.7,7.9,2,8.6,6.1c0.7,4.1-2,7.9-6.1,8.6c-4.1,0.7-7.9-2-8.6-6.1
+								C461.6,547.1,464.3,543.3,468.4,542.6z"/>
+							<g id="Calque20">
+								<circle id="circle143" class="st41" cx="469.7" cy="524.6" r="1.7"/>
+								<circle id="circle145" class="st41" cx="455.9" cy="528.6" r="1.7"/>
+								<circle id="circle147" class="st41" cx="446.6" cy="539.4" r="1.7"/>
+								<circle id="circle149" class="st41" cx="444.5" cy="553.6" r="1.7"/>
+								<circle id="circle151" class="st41" cx="450.5" cy="566.6" r="1.7"/>
+								<circle id="circle153" class="st41" cx="462.5" cy="574.3" r="1.7"/>
+								<circle id="circle155" class="st41" cx="476.8" cy="574.3" r="1.7"/>
+								<circle id="circle157" class="st41" cx="488.8" cy="566.6" r="1.7"/>
+								<circle id="circle159" class="st41" cx="494.8" cy="553.6" r="1.7"/>
+								<circle id="circle161" class="st41" cx="492.8" cy="539.4" r="1.7"/>
+								<circle id="circle163" class="st41" cx="483.4" cy="528.6" r="1.7"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<path id="Tour" class="st42" d="M429.8,441.5c35.4,2.3,62.1,35.1,59.5,73.1c-2.5,38-33.3,66.9-68.7,64.6
+				c-35.4-2.3-62.1-35.1-59.5-73.1S394.5,439.2,429.8,441.5z"/>
+			<path id="Tour-ombre-inner" class="st43" d="M435.5,440.5c35.9,2.4,62.9,35.6,60.4,74.1c-2.6,38.6-33.7,67.9-69.6,65.5
+				c-35.9-2.4-62.9-35.6-60.4-74.1C368.4,467.5,399.5,438.2,435.5,440.5z"/>
+		</g>
+	</g>
+</g>
+<g id="Head--group">
+	<path id="Head--bg" d="M516.4,328.1c1.6,0,3.2,0,4.8,0.1c20.6,0.6,39.5,6.5,55.9,17c11.2,7.2,17.5,11.4,25.9,25.2
+		c1.5,2.5,9,0.8,7.9-1.1c-10.1-17.6-17.5-22.3-29.8-30.3c-17.7-11.4-37.8-17.6-59.7-18.2c-1.6,0-3.3-0.1-5-0.1l0,0
+		c-1.6,0-3.3,0-4.9,0.1c-24.3,0.6-47.8,6.6-67.8,17.1c-20.2,10.6-37.1,26.1-48.9,44.7c-7.7,12.3-10.3,23.9-7.4,33.5
+		c2.4,7.8,7.9,12.7,12.3,14.6c1.4,0.6,2.9,0.9,4.7,0.9c9.3,0,34.7-9.3,45.7-24.8c8.4,4.5,17.6,6.7,28.1,6.7c12.6,0,25-3.2,36.4-6.9
+		c3-1,3.8-2.2,3.9-4.1c0-1.3-1.2-3.6-3.8-3.5c-0.3,0-0.7,0.1-1,0.2c-11.2,3.6-23.3,6.9-35.4,6.9c-9.3,0-18.6-2-27.4-7.4
+		c-0.6-0.4-1.3-0.5-1.9-0.5c-1.3,0-2.5,0.6-3.2,1.8l-0.1,0.1c-7.9,14.3-33.3,24.1-41.2,24.1c-0.7,0-1.3-0.1-1.7-0.3
+		c-2.8-1.2-6.6-4.6-8.2-10c-2.3-7.5,0-17,6.6-27.4c22.5-35.7,63.4-57.1,110.6-58.3l0,0C513.2,328.1,514.8,328.1,516.4,328.1"/>
+	<path id="Head" class="st0" d="M516.6,399.4c-1-0.4-2-0.7-3-0.3c-19.7,6.3-42.5,12-62.8-0.5c-1.7-1.1-4-0.5-5.1,1.2l-0.1,0.1
+		c-8.6,15.7-38.3,26-43,23.9c-2.8-1.2-6.6-4.6-8.2-10c-2.3-7.5,0-17,6.6-27.4c22.5-35.7,63.4-57.1,110.6-58.3l0,0
+		c3.1-0.1,6.3-0.1,9.5,0c20.6,0.6,39.5,6.5,55.9,17c13.2,8.5,19.7,12.7,30.6,33.6C613.2,389.2,523.2,402.2,516.6,399.4z"/>
+</g>
+<g id="LeftArm--group">
+	<path id="LeftArm--bg" d="M478,413.3c-6.4,2.9-12.4,6.6-17.6,11.1c-12.1,10.6-12.6,19.4-10.8,24.8c2.5,7.7,11.1,13.4,21.9,14.6
+		c7.1,0.7,16.2-1.3,26.7-3.6c13.9-3.1,29.7-6.6,42.9-3.9c19.6,4.1,33.3,15,53.1,32.7l10.3,9.2c1.5,1.3,3.9,1.2,5.2-0.4
+		c1.3-1.5,1.2-3.9-0.4-5.2l0,0l-2.9-2.6c-24-21.7-39.9-36-63.8-41c-14.8-3.1-31.3,0.6-46,3.9c-9.5,2.1-18.5,4.1-24.3,3.5
+		c-7.8-0.8-14.1-4.6-15.7-9.5c-1.5-4.7,1.6-10.7,8.7-17c20.7-18.2,59.1-23.7,87.5-12.5c4.7,1.9,7.4-5.1,2.7-6.9
+		c-11.4-4.4-24.6-6.6-37.7-6.2C507.7,404.7,487.3,409.1,478,413.3z"/>
+	<path id="LeftArm" class="st0" d="M615.4,451c11.7,12.2,17,60.3-6,41.6l0,0l-2.9-2.6c-24-21.7-39.9-36-63.8-41
+		c-14.8-3.1-31.3,0.6-46,3.9c-9.5,2.1-18.5,4.1-24.3,3.5c-7.8-0.8-14.1-4.6-15.7-9.5c-1.5-4.7,1.6-10.7,8.7-17
+		c20.7-18.2,59.3-24,87.5-12.5C557.5,419.4,599,433.9,615.4,451z"/>
+</g>
+<g id="LeftEar--group">
+	<path id="LeftEar--bg" d="M701.4,357.1c-0.5,1.7-1.2,3.4-2,5.2c-5,10-17.7,23-38,29.1c-4.5,1.4-9.3,2-14,2h-0.1
+		c-13,0-34.2-4.9-61.6-28.3c-1.9-1.7-5.1-4.8-7.1-7c-2.3-2.5-2.8-6.1-1.5-9.1s4.4-5.1,7.8-5.1c0.2,0,0.3,0,0.5,0
+		c13.9,0.8,30.1,1.2,48.4,1.2c8.1,0,14.8-0.1,19.3-0.1c2,0,3.5,0,4.5,0c7.4,0,13.3-0.1,18.2-0.1c8.1,0,13.7,0.1,17.1,0.2
+		c2.9,0.1,5.6,1.5,7.3,3.9C701.7,351.3,702.2,354.2,701.4,357.1z"/>
+	<path id="LeftEar" class="st1" d="M590.4,359.4c25.7,21.9,45.1,26.5,56.8,26.5h0.1c4,0,8-0.6,11.9-1.7
+		c18.1-5.4,29.2-16.6,33.5-25.3c0.8-1.5,1.2-2.8,1.5-3.9c0.4-1.3-0.6-2.6-1.9-2.7c-3.3-0.1-8.9-0.2-16.7-0.2c-5.4,0-11.6,0-18.2,0.1
+		c-3.3,0-12.2,0.2-23.9,0.2c-13.9,0-31.7-0.2-48.8-1.2c0,0,0,0-0.1,0c-0.9,0-1.5,1.1-0.8,1.8C585.8,355.2,588.8,358.1,590.4,359.4z"
+		/>
+</g>
+<g id="Face--group">
+	<path id="RightEye" d="M417.6,376.2c-4.1,0-7.4,3.3-7.4,7.4c0,9.9,14.8,9.9,14.8,0C425,379.5,421.7,376.2,417.6,376.2z"/>
+	<path id="LeftEye" d="M503.2,355.7c-4.1,0-7.4,3.3-7.4,7.4c0,9.9,14.8,9.9,14.8,0C510.6,359,507.3,355.7,503.2,355.7L503.2,355.7
+		L503.2,355.7z"/>
+	<path id="Nose" d="M457.9,375.4c-7.4,0.8-12.3,2.5-15.6,4.9c-5.9,4.4-4.1,9.9,2.5,10.7c6.6,0.8,7.1,1.2,13.2-3.3
+		C464.5,382.8,465.3,374.6,457.9,375.4L457.9,375.4z"/>
+</g>
+<g id="LeftLEg--group">
+	<path id="LetLeg" class="st0" d="M512.4,655.2c-4.6-5.2-3.7-15.7-1.9-29.4c2.6-19.8,5-34.5,25.4-50.8c24.4-19.5,62.2-15,76.2-0.5
+		c3.6,3.7,6.7,10.9,7.3,18.8c0.9,11.4-22.2,42.4-44.8,51.8C552,654.7,520.6,664.4,512.4,655.2z"/>
+	<path id="LeftLeg--bg_1_" d="M512.4,658.9c-1.2,0-2.3-0.5-3-1.6c-4.7-6.7-4.5-17.2-2.6-32c2.5-19,4.6-35.5,26.8-53.2
+		c26.8-21.4,63.7-14,78.4,0.7c1.4,1.4,1.4,3.8,0,5.2s-3.8,1.4-5.2,0c-12.5-12.5-45.4-18.7-68.6-0.1c-18.9,15.1-21.4,28.2-24.1,48.4
+		c-1.4,11-2.3,21.8,1.3,26.7c1.2,1.7,0.8,4-0.9,5.2C513.9,658.7,513.1,658.9,512.4,658.9z"/>
+</g>
+<g id="LeftFoot--group">
+	<path id="LeftFoot--bg" d="M523.7,651.2c-0.4,1.9-2,9.1-6.7,16.2c-7,10.6-17.8,16.5-30.4,16.5c-7.2,0-12.9-2.1-16.8-6.2
+		c-7.5-7.8-7.1-21-6.7-33.7v-0.1c0.2-6.4,0.4-13.1-0.4-18.5c-0.7-4.4-1.8-9.1-3.1-14.5c-2.4-10.2-4.6-20.1-4.3-28.7
+		c0.4-10.7,4.7-18.9,12.8-24.4c3.5-2.4,7.4-3.5,11.4-3.5c9.3,0,18.9,6.2,28.7,18.6c7.1,8.9,13.1,20,15.4,28.1
+		C530,622.8,528.5,635.9,523.7,651.2z"/>
+	<path id="LeftFoot_1_" class="st0" d="M477,670.8c2,2.1,5.2,3.1,9.6,3.1c22.6,0,27-23.7,27.2-24.7c0-0.2,0.1-0.4,0.1-0.6
+		c4.4-13.9,5.7-25.2,0-44.8c-3.7-13.2-21.1-39.4-34.4-39.4c-2,0-4,0.6-5.8,1.9c-11.7,7.8-9.3,21.8-4.4,42.4
+		c1.2,5.1,2.5,10.4,3.2,15.3c1,6.4,0.8,13.5,0.5,20.4C472.8,655,472.4,666,477,670.8z"/>
+</g>
+</svg>
