@@ -18,12 +18,14 @@ meta: [name,author,description,published,license]
                     "properties": {
                         {% for var in page.meta %}"{{ var }}": {
                             "type": "string"
-                        }{% unless forloop.last %},
-                        {% endunless %}{% endfor %}
+                        },
+                        {% endfor %}"price": {
+                            "type": "number"
+                        }
                     },
                     "required": [
-                        {% for var in page.meta %}"{{ var }}"{% unless forloop.last %},
-                        {% endunless %}{% endfor %}
+                        {% for var in page.meta %}"{{ var }}",{% endfor %}
+                        "price"
                     ]
                 },
                 "image": {
