@@ -1,9 +1,9 @@
 ---
-title: Wapuugotchi collection JSON Schema
-permalink: /schema/collection/
-nav_exclude: true
+layout: default
+title: Schema
 meta: [name,author,description,published,license]
 ---
+```json
 {
     "$id": "https://api.wapuugotchi.com/schema/collection",
     "$schema": "https://json-schema.org/draft/2020-12/schema",
@@ -25,8 +25,8 @@ meta: [name,author,description,published,license]
                         }
                     },
                     "required": [
-                        {% for var in page.meta %}"{{ var }}",{% endfor %}
-                        "price"
+                    {% for var in page.meta %}"{{ var }}",{% endfor %}
+                    "price"
                     ]
                 },
                 "image": {
@@ -37,9 +37,9 @@ meta: [name,author,description,published,license]
                 }
             },
             "required": [
-                "meta",
-                "image",
-                "preview"
+            "meta",
+            "image",
+            "preview"
             ]
         }
     },
@@ -56,3 +56,4 @@ meta: [name,author,description,published,license]
         {% endunless %}{% endfor %}
     }
 }
+```

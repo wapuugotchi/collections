@@ -1,6 +1,11 @@
 source: "./"
-theme: jekyll-theme-cayman
+theme: just-the-docs
+search_enabled: false
+logo: "/assets/logo.svg"
+favicon: "/assets/logo.svg"
 collections:
+  assets:
+    output: true
   balls:
     output: true
   caps:

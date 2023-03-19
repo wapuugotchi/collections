@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wapuugotchi collection
+title: Home
 permalink: index.html
 ---
 # Wappuugotchi Collection

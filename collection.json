@@ -1,10 +1,11 @@
 ---
 title: Wapuugotchi collection
 permalink: /collection/
+nav_exclude: true
 meta: [name,author,description,published,license]
 ---
 {
-    {% for collection in site.collections %}{% unless collection.label == "posts" %}"{{ collection.label }}":{
+    {% for collection in site.collections %}{% unless collection.label == "posts" or collection.label == "assets" %}"{{ collection.label }}":{
         {% for item in collection.docs %}"{{ item.slug }}": {
             "meta": { {% for var in page.meta %}
                 "{{ var }}": "{{ item[var] }}",{% endfor %}
