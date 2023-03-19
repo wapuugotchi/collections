@@ -1,8 +1,6 @@
 source: "./"
 theme: jekyll-theme-cayman
 collections:
-  assets:
-    output: true
   balls:
     output: true
   caps:
