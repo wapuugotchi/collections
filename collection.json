@@ -18,7 +18,7 @@ meta: [name,author,description,published,license,key]
                 {% endunless %}{% endfor %}
             },
             "image": "{{ site.url }}/assets/icons/{{ collection.label }}.svg",
-            "caption": "{{collection.label}}"
+            "caption": "{{ collection.label | capitalize }}"
         }{% unless forloop.last %},
         {% endunless %}{% endunless %}{% endfor %}
     ]
