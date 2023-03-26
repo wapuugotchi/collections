@@ -43,7 +43,7 @@ meta: [name,author,description,published,license]
         }
     },
     "properties": {
-        "collection": {
+        "collections": {
             "type": "array",
             "items": {
                 "type": "object",
@@ -59,6 +59,10 @@ meta: [name,author,description,published,license]
                 },
                 "caption": {
                     "type": "string"
+                },
+                "slug": {
+                    "type": "string",
+                    "pattern": "^[a-z]*$"
                 }
             }
         }
