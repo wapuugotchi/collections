@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="60" height="90"><g style="display:inline"><path fill="#010202" fill-rule="evenodd" d="M17.362 12.154c.12 1.272.804 1.426 1.643 1.321.96-.118 1.993-.693 2.655-1.181.519-.382.219-1.175-.59-.649-.678.442-1.195.987-2.076 1.235-.697.195-1.243.085-1.632-.726m9.683-1.302c.24 1.255-.373 1.594-1.208 1.73-.954.155-2.107-.108-2.88-.39-.604-.221-.502-1.046.422-.767.776.234 1.486.596 2.4.586.725-.007 1.12-.271 1.266-1.159" style="display:inline;stroke-width:.13001" transform="translate(-.19 21.333)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#010202;}
+</style>
+<g id="moustache--group">
+	<path id="moustacheRight" class="st0" d="M415.5,397.4c0.8,8.8,5.6,9.9,11.4,9.1c6.6-0.8,13.8-4.8,18.4-8.2
+		c3.6-2.6,1.5-8.1-4.1-4.5c-4.7,3.1-8.3,6.8-14.4,8.5C422,403.8,418.2,403,415.5,397.4"/>
+	<path id="moustacheLeft" class="st0" d="M484.4,387c2.1,9.1-2.2,11.7-8.1,13c-6.8,1.4-15.1-0.1-20.7-2c-4.4-1.4-3.9-7.5,2.8-5.7
+		c5.6,1.5,10.8,3.9,17.3,3.5C480.9,395.6,483.6,393.6,484.4,387"/>
+</g>
+</svg>
