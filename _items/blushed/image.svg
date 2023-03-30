@@ -1,5 +1,5 @@
 <svg version="1.1" id="wapuugotchi_svg__item" viewBox="0 0 1e3 1e3" xmlns="http://www.w3.org/2000/svg">
-	<g id="Face--group">
+	<g class="Face--group">
 		<radialGradient id="BlushLeft_1_" cx="497.73" cy="387.13" r="15.074" gradientUnits="userSpaceOnUse">
 			<stop style="stop-color:#FF9349" offset="0"/>
 			<stop style="stop-color:#ffcc00;stop-opacity:0" offset=".8793"/>
