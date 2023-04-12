@@ -1,5 +1,5 @@
 <svg version="1.1" id="wapuugotchi_svg__item" viewBox="0 0 1e3 1e3" xmlns="http://www.w3.org/2000/svg">
-	<g class="Body--group">
+	<g class="Ball--group">
 		<circle transform="rotate(-45.001 470.62 529.32)" cx="470.6" cy="529.3" r="133.5"/>
 		<path d="M593 498.7c-82.7-33.9-170-30.9-244.5-.7 13.9-54.5 63.4-94.8 122.2-94.8 59 0 108.6 40.6 122.3 95.5z" fill="red"/>
 		<path d="M596.7 533c-2 67.9-57.7 122.4-126.1 122.4-68.6 0-124.4-54.8-126.1-123.1 76.5-32.1 167-35.5 252.2.7z" fill="#fff"/>

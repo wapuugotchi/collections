@@ -1,5 +1,5 @@
 <svg version="1.1" id="wapuugotchi_svg__item" viewBox="0 0 1e3 1e3" xmlns="http://www.w3.org/2000/svg">
-	<g class="Body--group">
+	<g class="Ball--group">
 		<path d="m564.2 563.2-51.2 24.2c-0.5 0.2-1 0.4-1.6 0.4s-1.2-0.1-1.7-0.4c-1-0.6-1.8-1.5-1.9-2.7l-4.3-26.7c-0.2-1.1 0.2-2.2 0.9-3s1.8-1.3 2.9-1.2l55.5 2.5c1.7 0.1 3.1 1.3 3.5 3 0.2 1.5-0.6 3.2-2.1 3.9z"/>
 		<polygon points="547.5 562.9 511.4 561.2 514.2 578.6" fill="#7F7F7F"/>
 		<polygon points="513.4 573.7 530.5 565.7 512 564.9" fill="#5E5E5E"/>

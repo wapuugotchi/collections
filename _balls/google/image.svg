@@ -1,5 +1,5 @@
 <svg version="1.1" id="wapuugotchi_svg__item" viewBox="0 0 1e3 1e3" xmlns="http://www.w3.org/2000/svg">
-	<g class="Body--group">
+	<g class="Ball--group">
 		<ellipse transform="matrix(.7071 -.7071 .7071 .7071 -236.44 487.81)" cx="470.6" cy="529.3" rx="133.5" ry="133.5"/>
 		<circle cx="470.6" cy="529.3" r="126.1" fill="#fff"/>
 		<path d="m413.7 524.6c-1.4 6.7-7.8 10.6-14.2 9.1-6.5-1.4-10.7-7.7-9.3-14.5 1.4-6.9 7.7-10.6 14.2-9.1s10.8 7.7 9.3 14.5zm-5.2-1.1c0.9-4.2-1.6-7.8-5.1-8.7s-7.2 1.4-8.1 5.6 1.6 7.9 5.1 8.7c3.6 0.8 7.3-1.4 8.1-5.6z" fill="#EA4335"/>
