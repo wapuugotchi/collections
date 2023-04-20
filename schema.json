@@ -19,12 +19,16 @@ meta: [name,author,description,published,license]
                         {% for var in page.meta %}"{{ var }}": {
                             "type": "string"
                         },
-                        {% endfor %}"price": {
+                        {% endfor %}"deactivated": {
+                            "type": "number"
+                        },
+                        "price": {
                             "type": "number"
                         }
                     },
                     "required": [
-                        {% for var in page.meta %}"{{ var }}",{% endfor %}
+                        {% for var in page.meta %}"{{ var }}",{% endfor %},
+                        "deactivated",
                         "price"
                     ]
                 },

@@ -1,7 +1,7 @@
 ---
 title: Wapuugotchi collection
 permalink: /collection/
-meta: [name,author,description,published,license,key]
+meta: [name,author,description,published,key]
 ---
 {
     "collections": [
@@ -10,6 +10,7 @@ meta: [name,author,description,published,license,key]
                 {% for item in collection.docs %}"{{ item.slug }}": {
                     "meta": { {% for var in page.meta %}
                         "{{ var }}": "{{ item[var] }}",{% endfor %}
+                        "deactivated": {% if item.deactivated != nil %}{{ item.deactivated }}{% else %}0{% endif %},
                         "price": {% if item.price != nil %}{{ item.price }}{% else %}0{% endif %}
                     },
                     "image": "{{ item.url  | absolute_url | replace: "meta.html", "image.svg" }}",
