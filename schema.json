@@ -22,6 +22,9 @@ meta: [name,author,description,published,license]
                         {% endfor %}"deactivated": {
                             "type": "number"
                         },
+                        "priority": {
+                            "type": "number"
+                        },
                         "price": {
                             "type": "number"
                         }
