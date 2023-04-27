@@ -1,6 +1,6 @@
 ---
-slug: death_star
-name: Death Star
+slug: bb_8
+name: Star Wars - BB-8
 author: marktimemedia
 description: Published during the WordCamp Sacramento 2019.
 deactivated: 0
