@@ -1,6 +1,6 @@
 ---
-slug: witch_hat
-name: Witch Hat
+slug: magic_wapuu_hat
+name: Wizard hat
 author: marktimemedia
 description: This item is a gift from MAGIC WAPUU.
 deactivated: 0
