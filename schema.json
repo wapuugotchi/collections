@@ -31,7 +31,6 @@ meta: [name,author,description,published,license]
                     },
                     "required": [
                         {% for var in page.meta %}"{{ var }}",{% endfor %},
-                        "deactivated",
                         "price"
                     ]
                 },
