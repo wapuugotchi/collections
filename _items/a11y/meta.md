@@ -1,6 +1,6 @@
 ---
 slug: a11y-glasses
-name: a11y-glasses
+name: a11y glasses
 author: Miodrag Veljovic
 description: Created during the CloudFest-Hackathon 2023 for the accessibility project.
 deactivated: 0
