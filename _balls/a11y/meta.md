@@ -1,9 +1,9 @@
 ---
-slug: a11y
-name: a11y
-author: Mio
+slug: a11y-ball
+name: a11y-ball
+author: Miodrag Veljovic
 description: Created during the CloudFest-Hackathon 2023 for the accessibility project.
-deactivated: 1
-key: 870cbca1-4448-43ae-b815-11e9c2617159
-price: 50
+deactivated: 0
+key: 870cbca1-4448-43ae-b815-11e9z9617159
+price: 25
 ---
