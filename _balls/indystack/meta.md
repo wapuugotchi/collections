@@ -1,8 +1,9 @@
 ---
-slug: indystack
+slug: indystack-ball
 name: Indystack
-author: Mio
+author: Miodrag Veljovic
+description: Created during the CloudFest-Hackathon 2023.
 deactivated: 0
 key: 042308bc-09b6-4962-a7dd-7a2f878482d3
-price: 0
+price: 2
 ---

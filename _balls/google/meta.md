@@ -1,9 +1,9 @@
 ---
-slug: google
+slug: google-ball
 name: Google
-author: Mio
+author: Miodrag Veljovic
 description: Created during the CloudFest-Hackathon 2023.
 deactivated: 0
 key: 9d343cf8-cfcd-4538-8abf-dfc8da0a2111
-price: 0
+price: 2
 ---

@@ -1,9 +1,9 @@
 ---
-slug: ionos
+slug: ionos-ball
 name: ionos
-author: Mio
+author: Miodrag Veljovic
 description: Created during the CloudFest-Hackathon 2023.
 deactivated: 0
 key: f756177a-7375-4837-925d-2f31f0205fde
-price: 0
+price: 2
 ---

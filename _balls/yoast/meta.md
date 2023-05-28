@@ -1,8 +1,9 @@
 ---
-slug: yoast
+slug: yoast-ball
 name: yoast
+author: Miodrag Veljovic
 description: Created during the CloudFest-Hackathon 2023.
 deactivated: 0
 key: 2488461e-4bcf-4e00-88cb-25ba8c6884d4
-price: 50
+price: 2
 ---
