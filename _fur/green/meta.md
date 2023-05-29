@@ -1,7 +1,7 @@
 ---
-slug: green
+slug: green-fur
 name: Green
-price: 50
+price: 0
 deactivated: 0
 key: e65a119d-3719-4ba5-b33d-a5a8ae5a4d9b
 author: Kazuko Kaneuchi
