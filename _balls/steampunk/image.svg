@@ -57,9 +57,9 @@
 <g id="GearBall">
 	
 		<ellipse id="Ball--bg" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -236.4377 487.8127)" cx="470.6" cy="529.3" rx="133.5" ry="133.5"/>
-	<circle id="Grey" class="st0" cx="470.6" cy="529.3" r="126.1"/>
+	<circle id="Grey" cx="470.6" cy="529.3" r="126.1"/>
 	
-		<ellipse id="LightGrey" transform="matrix(0.1935 -0.9811 0.9811 0.1935 -151.9316 832.3439)" class="st1" cx="430.3" cy="508.6" rx="80.9" ry="73.8"/>
+		<ellipse id="LightGrey" transform="matrix(0.1935 -0.9811 0.9811 0.1935 -151.9316 832.3439)" cx="430.3" cy="508.6" rx="80.9" ry="73.8"/>
 	<path id="MiddleLine" d="M500.2,533c-11.4,0-22.9-0.6-34.4-1.9c-40.5-4.5-80.8-17.4-116.4-37.2l0.5-0.9
 		c75,41.7,164.6,50.3,246,23.6l0.3,0.9C564.9,527.8,532.7,533,500.2,533z"/>
 	<g>
@@ -71,9 +71,9 @@
 			<use xlink:href="#ClippingPath"  style="overflow:visible;"/>
 		</clipPath>
 		<g id="g173" class="st2">
-			<path id="fond" class="st3" d="M429.8,441.5c35.4,2.3,62.1,35.1,59.5,73.1c-2.5,38-33.3,66.9-68.7,64.6
+			<path id="fond" d="M429.8,441.5c35.4,2.3,62.1,35.1,59.5,73.1c-2.5,38-33.3,66.9-68.7,64.6
 				c-35.4-2.3-62.1-35.1-59.5-73.1S394.5,439.2,429.8,441.5z"/>
-			<path id="ombre" class="st4" d="M485.1,446.5c-105.9-11.4-128.2,77.1-63.6,135c-65.8,1.6-114.7-49.6-89.3-127.2
+			<path id="ombre" d="M485.1,446.5c-105.9-11.4-128.2,77.1-63.6,135c-65.8,1.6-114.7-49.6-89.3-127.2
 				C351.3,396.2,432.9,400.6,485.1,446.5z"/>
 			<g id="Roue-fond">
 				<g>
@@ -89,7 +89,7 @@
 								
 									<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="4s" calcMode="linear" dur="20s" fill="remove" from="0,20.22242498397827,47.80959892272949" repeatCount="indefinite" restart="always" to="360,20.22242498397827,47.80959892272949" type="rotate">
 									</animateTransform>
-								<path id="path20" class="st6" d="M429.8,463.5l12.3,15.5l17.5-9.2l4.9,19.2l19.7-1.3l-3.3,19.5l18.6,6.9l-11,16.5l14.2,13.8
+								<path id="path20" d="M429.8,463.5l12.3,15.5l17.5-9.2l4.9,19.2l19.7-1.3l-3.3,19.5l18.6,6.9l-11,16.5l14.2,13.8
 									L486,555l7.3,18.4l-19.6,2.9l-0.8,19.8l-19.1-5.3l-8.8,17.7l-15.2-12.6l-15.2,12.6l-8.8-17.7l-19.1,5.3l-0.8-19.8l-19.6-2.9
 									l7.3-18.4L357,544.4l14.2-13.8l-11-16.5l18.6-6.9l-3.3-19.5l19.7,1.3l4.9-19.2l17.5,9.2L429.8,463.5z"/>
 							</g>
@@ -97,7 +97,7 @@
 								
 									<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="4s" calcMode="linear" dur="20s" fill="remove" from="0,20.53931474685669,48.286149978637695" repeatCount="indefinite" restart="always" to="360,20.53931474685669,48.286149978637695" type="rotate">
 									</animateTransform>
-								<path id="path23" class="st7" d="M431.6,466.1l12.3,15.5l17.5-9.2l4.9,19.2l19.7-1.3l-3.3,19.5l18.6,6.9l-11,16.5l14.2,13.8
+								<path id="path23" d="M431.6,466.1l12.3,15.5l17.5-9.2l4.9,19.2l19.7-1.3l-3.3,19.5l18.6,6.9l-11,16.5l14.2,13.8
 									l-16.7,10.6L495,576l-19.6,2.9l-0.8,19.8l-19.1-5.3l-8.8,17.7l-15.2-12.6L416.4,611l-8.8-17.7l-19.1,5.3l-0.8-19.8
 									l-19.6-2.9l7.3-18.4L358.8,547l14.2-13.8l-11-16.5l18.6-6.9l-3.3-19.5l19.7,1.3l4.9-19.2l17.5,9.2L431.6,466.1z"/>
 							</g>
@@ -111,7 +111,7 @@
 						
 							<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="5.25s" calcMode="linear" dur=".5s" fill="remove" repeatCount="indefinite" restart="always" type="translate" values="0,0;0,-.05;0,-.1;0,-.5;0,-.1;0,-.05;0,0;0,0;0,0;0,0">
 							</animateTransform>
-						<path id="path31" class="st8" d="M383.5,533.7c0,0-0.1-27.4-0.1-31.6c0-2.4,1.9-4.6,5.5-4.6c3.5,0,5.6,2.3,5.6,4.7
+						<path id="path31" d="M383.5,533.7c0,0-0.1-27.4-0.1-31.6c0-2.4,1.9-4.6,5.5-4.6c3.5,0,5.6,2.3,5.6,4.7
 							c0,6.1,0,31.5,0,31.5L383.5,533.7z"/>
 						<g>
 							<defs>
@@ -131,7 +131,7 @@
 						
 							<animateTransform  accumulate="none" additive="replace" attributeName="transform" attributeType="XML" begin="5s" calcMode="linear" dur=".5s" fill="remove" repeatCount="indefinite" restart="always" type="translate" values="0,0;0,-.05;0,-.1;0,-.5;0,-.1;0,-.05;0,0;0,0;0,0;0,0">
 							</animateTransform>
-						<path id="path43" class="st8" d="M369.6,534.9c0,0-0.1-27.4-0.1-31.6c0-2.4,1.9-4.6,5.5-4.6c3.5,0,5.6,2.3,5.6,4.7
+						<path id="path43" d="M369.6,534.9c0,0-0.1-27.4-0.1-31.6c0-2.4,1.9-4.6,5.5-4.6c3.5,0,5.6,2.3,5.6,4.7
 							c0,6.1,0,31.5,0,31.5L369.6,534.9z"/>
 						<g>
 							<defs>
