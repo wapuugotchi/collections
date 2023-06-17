@@ -6,6 +6,7 @@ $template = "---
 slug: {{DIR_NAME}}
 name: {{TITLE}}
 key: {{UUID}}
+priority: 100
 price: 50
 ---";
 
