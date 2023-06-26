@@ -40,3 +40,42 @@ Scanned folders are:
 * `_fur` for fur elements
 * `_items` for item elements
 * `_shoes` for shoe elemeps
+
+## Adding new items
+
+To add a new element, just create a new folder in the corresponding folder and add the needed files.
+After that, create a pull request and wait for it to be merged.
+
+The svg needs to follow this structure:
+
+```svg
+<svg id="wapuugotchi_svg__wapuu" width="200" version="1.1" viewBox="0 0 1e3 1e3" xmlns="http://www.w3.org/2000/svg">
+	<g id="RightArm--group">
+	</g>
+	<g id="Tail--group">
+	</g>
+	<g id="Body--group">
+	</g>
+	<g id="RightHand--group">
+	</g>
+	<g id="RightFoot--group">
+	</g>
+	<g id="RightEar--group">
+	</g>
+	<g id="Head--group">
+	</g>
+	<g id="LeftEar--group">
+	</g>
+	<g id="Face--group">
+	</g>
+	<g id="LeftLeg--group">
+	</g>
+	<g id="LeftFoot--group">
+	</g>
+	<g id="LeftArm--group">
+	</g>
+</svg>
+```
+
+Groups which are not needed can be removed but groups which have to be on a specific layer need to be kept even without content.
+
