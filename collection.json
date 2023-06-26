@@ -7,7 +7,7 @@ meta: [name,author,description,published,key]
     "collections": [
         {% for collection in site.collections %}{% unless collection.label == "posts" or collection.label == "assets" or collection.label == "icons" %}{
             "items": {
-                {% for item in collection.docs %}"{{ item.slug }}": {
+                {% for item in collection.docs %}{% if item.deactivated != nil and item.deactivated != 1 %}"{{ item.slug }}": {
                     "meta": { {% for var in page.meta %}
                         "{{ var }}": "{{ item[var] }}",{% endfor %}
                         "deactivated": {% if item.deactivated != nil %}{{ item.deactivated }}{% else %}0{% endif %},
@@ -17,7 +17,7 @@ meta: [name,author,description,published,key]
                     "image": "{{ item.url  | absolute_url | replace: "meta.html", "image.svg" }}",
                     "preview": "{{ item.url  | absolute_url | replace: "meta.html", "preview.svg" }}"
                 }{% unless forloop.last %},
-                {% endunless %}{% endfor %}
+                {% endunless %}{% endif %}{% endfor %}
             },
             "image": "{{ site.url }}/assets/icons/{{ collection.label }}.svg",
             "slug": "{{ collection.label }}",
