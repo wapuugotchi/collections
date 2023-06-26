@@ -7,7 +7,7 @@ meta: [name,author,description,published,key]
     "collections": [
         {% for collection in site.collections %}{% unless collection.label == "posts" or collection.label == "assets" or collection.label == "icons" %}{
             "items": {
-                {% for item in (collection.docs | where:"deactivated",0) %}"{{ item.slug }}": {
+                {% assign filtered_items = collection.docs | where: "deactivated", 0 %}{% for item in filtered_items %}"{{ item.slug }}": {
                     "meta": { {% for var in page.meta %}
                         "{{ var }}": "{{ item[var] }}",{% endfor %}
                         "deactivated": {% if item.deactivated != nil %}{{ item.deactivated }}{% else %}0{% endif %},
