@@ -4,7 +4,7 @@ name: Guitar
 author: marktimemedia
 description: This guitar is a gift from the Guitar Wapuu.
 deactivated: 0
-key: 22gui06-67a9-493f-9f59-2c4ab7m8f3w1
+key: 31cd43a3-feda-4cf7-9e12-1d309751fa79
 priority: 20
 price: 7
 ---
