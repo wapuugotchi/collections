@@ -1,9 +1,11 @@
 <svg id="wapuugotchi_svg__wapuu" x="0" y="0" version="1.1" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
   <style>
+    #wapuugotchi_type__bear #Face--group__nose { transform-origin: 55% 63%; animation: Face--group__nose 0.3s 0s 3 normal linear forwards}@keyframes Face--group__nose { 100,0% {transform: rotate(0deg)} 25% {transform: rotate(-0.3deg)} 75% {transform: rotate(0.3deg)}}
     #wapuugotchi_type__bear #LeftEar--group { transform-origin: 58% 35%; animation: LeftEar--group 0.1s 2s 2 normal linear forwards}@keyframes LeftEar--group { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(20deg)}}
+    #wapuugotchi_type__bear #RightEar--group { transform-origin: 41% 40%; animation: RightEar--group 0.1s 2s 2 normal linear forwards}@keyframes RightEar--group { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-20deg)}}
     #wapuugotchi_type__bear #LeftFoot--group { transform-origin: 49% 66%; animation: LeftFoot--group 3s 12s 2 normal linear forwards}@keyframes LeftFoot--group { 100%, 0% {transform: rotate(0deg)} 25% {transform: rotate(-5deg)} 50% {transform: rotate(0deg)} 75% {transform: rotate(5deg)}}
     #wapuugotchi_type__bear #RightFoot--group { transform-origin: 37% 64%; animation: RightFoot--group 3s 12s 2 normal linear forwards}@keyframes RightFoot--group { 100%, 0% {transform: rotate(0deg)} 25% {transform: rotate(5deg)} 50% {transform: rotate(0deg)} 75% {transform: rotate(-5deg)}}
-    #wapuugotchi_type__bear #Tail--group { transform-origin: 55% 63%; animation: Tail--group 3s 22s 2 normal ease-in-out forwards}@keyframes Tail--group { 0% {transform: rotate(0deg)} 50% {transform: rotate(-7deg)}}
+    #wapuugotchi_type__bear #Tail--group { transform-origin: 55% 63%; animation: Tail--group 3s 22s 2 normal ease-in-out forwards}@keyframes Tail--group { 0% {transform: rotate(0deg)} 50% {transform: rotate(-12deg)}}
   </style>
   <g id="wapuugotchi_type__bear">
     <g id="Background--group" />
@@ -56,7 +58,7 @@
       <g id="Face--group">
         <path d="m 510.686,363.178 c 0,4.057 -3.34,7.398 -7.397,7.398 a 7.383,7.383 0 0 1 -7.398,-7.398 7.383,7.383 0 0 1 7.398,-7.397 c 4.056,0 7.397,3.34 7.397,7.397 z" />
         <path d="m 425.178,383.7 c 0,4.057 -3.34,7.398 -7.397,7.398 -4.057,0 -7.398,-3.341 -7.398,-7.398 0,-4.056 3.34,-7.397 7.398,-7.397 a 7.383,7.383 0 0 1 7.397,7.397 z" />
-        <path d="m 432.655,374.553 c -10.42,7.795 -7.238,17.5 4.375,18.93 11.693,1.512 12.568,2.228 23.306,-5.806 11.692,-8.75 13.124,-23.306 0,-21.874 -13.125,1.511 -21.874,4.375 -27.681,8.75 z" />
+        <path id="Face--group__nose" d="m 432.655,374.553 c -10.42,7.795 -7.238,17.5 4.375,18.93 11.693,1.512 12.568,2.228 23.306,-5.806 11.692,-8.75 13.124,-23.306 0,-21.874 -13.125,1.511 -21.874,4.375 -27.681,8.75 z" />
       </g>
     </g>
     <g id="LeftLeg--group">

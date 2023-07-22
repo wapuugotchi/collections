@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="wapuugotchi_svg__wapuu" x="0" y="0" version="1.1" viewBox="0 0 1000 1000">
   <style>
+    #wapuugotchi_type__wapuu #Face--group__nose { transform-origin: 55% 63%; animation: Face--group__nose 0.3s 0s 4 normal linear forwards}@keyframes Face--group__nose { 100,0% {transform: rotate(0deg)} 25% {transform: rotate(-0.5deg)} 75% {transform: rotate(0.5deg)}}
     #wapuugotchi_type__wapuu #LeftEar--group { transform-origin: 58% 35%; animation: LeftEar--group 0.1s 2s 2 normal linear forwards}@keyframes LeftEar--group { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(20deg)}}
+    #wapuugotchi_type__wapuu #RightEar--group { transform-origin: 41% 40%; animation: RightEar--group 0.1s 2s 2 normal linear forwards}@keyframes RightEar--group { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-20deg)}}
     #wapuugotchi_type__wapuu #LeftFoot--group { transform-origin: 49% 66%; animation: LeftFoot--group 3s 12s 2 normal linear forwards}@keyframes LeftFoot--group { 100%, 0% {transform: rotate(0deg)} 25% {transform: rotate(-5deg)} 50% {transform: rotate(0deg)} 75% {transform: rotate(5deg)}}
     #wapuugotchi_type__wapuu #RightFoot--group { transform-origin: 37% 64%; animation: RightFoot--group 3s 12s 2 normal linear forwards}@keyframes RightFoot--group { 100%, 0% {transform: rotate(0deg)} 25% {transform: rotate(5deg)} 50% {transform: rotate(0deg)} 75% {transform: rotate(-5deg)}}
     #wapuugotchi_type__wapuu #Tail--group { transform-origin: 55% 63%; animation: Tail--group 3s 22s 2 normal ease-in-out forwards}@keyframes Tail--group { 0% {transform: rotate(0deg)} 50% {transform: rotate(-12deg)}}
@@ -41,7 +43,7 @@
       <g id="Face--group">
         <path d="M417.6 376.2c-4.1 0-7.4 3.3-7.4 7.4 0 9.9 14.8 9.9 14.8 0 0-4.1-3.3-7.4-7.4-7.4z"/>
         <path d="M503.2 355.7c-4.1 0-7.4 3.3-7.4 7.4 0 9.9 14.8 9.9 14.8 0 0-4.1-3.3-7.4-7.4-7.4z"/>
-        <path d="M457.9 375.4c-7.4.8-12.3 2.5-15.6 4.9-5.9 4.4-4.1 9.9 2.5 10.7 6.6.8 7.1 1.2 13.2-3.3 6.5-4.9 7.3-13.1-.1-12.3z"/>
+        <path id="Face--group__nose" d="M457.9 375.4c-7.4.8-12.3 2.5-15.6 4.9-5.9 4.4-4.1 9.9 2.5 10.7 6.6.8 7.1 1.2 13.2-3.3 6.5-4.9 7.3-13.1-.1-12.3z"/>
       </g>
     </g>
     <g id="LeftLeg--group">
