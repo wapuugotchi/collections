@@ -1,10 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="wapuugotchi_svg__wapuu" x="0" y="0" version="1.1" viewBox="0 0 1000 1000">
   <style>
+    <!-- animation -->
     #wapuugotchi_type__wapuu #Face--group__nose { transform-origin: 55% 63%; animation: Face--group__nose 0.3s 0s 4 normal linear forwards}@keyframes Face--group__nose { 100,0% {transform: rotate(0deg)} 25% {transform: rotate(-0.3deg)} 75% {transform: rotate(0.3deg)}}
+    <!-- animation -->
     #wapuugotchi_type__wapuu #LeftEar--group { transform-origin: 58% 35%; animation: LeftEar--group 0.1s 2s 2 normal linear forwards}@keyframes LeftEar--group { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(20deg)}}
     #wapuugotchi_type__wapuu #RightEar--group { transform-origin: 41% 40%; animation: RightEar--group 0.1s 2s 2 normal linear forwards}@keyframes RightEar--group { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-20deg)}}
+    <!-- animation -->
     #wapuugotchi_type__wapuu #LeftFoot--group { transform-origin: 49% 66%; animation: LeftFoot--group 3s 12s 2 normal linear forwards}@keyframes LeftFoot--group { 100%, 0% {transform: rotate(0deg)} 25% {transform: rotate(-5deg)} 50% {transform: rotate(0deg)} 75% {transform: rotate(5deg)}}
     #wapuugotchi_type__wapuu #RightFoot--group { transform-origin: 37% 64%; animation: RightFoot--group 3s 12s 2 normal linear forwards}@keyframes RightFoot--group { 100%, 0% {transform: rotate(0deg)} 25% {transform: rotate(5deg)} 50% {transform: rotate(0deg)} 75% {transform: rotate(-5deg)}}
+    <!-- animation -->
     #wapuugotchi_type__wapuu #Tail--group { transform-origin: 55% 63%; animation: Tail--group 3s 22s 2 normal ease-in-out forwards}@keyframes Tail--group { 0% {transform: rotate(0deg)} 50% {transform: rotate(-12deg)}}
   </style>
   <g id="wapuugotchi_type__wapuu">
