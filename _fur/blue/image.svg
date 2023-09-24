@@ -9,7 +9,7 @@
     </style>
     <style id="animation--foot_wiggle_1">
         #wapuugotchi_type__wapuu #LeftFoot--group { transform-origin: 49% 66%; animation: LeftFoot--group 3s 0s 2 normal linear forwards}@keyframes LeftFoot--group { 100%, 0% {transform: rotate(0deg)} 25% {transform: rotate(-5deg)} 50% {transform: rotate(0deg)} 75% {transform: rotate(5deg)}}
-        #wapuugotchi_type__wapuu #RightFoot--group { transform-origin: 37% 64%; animation: RightFoot--group 3s 12s 2 normal linear forwards}@keyframes RightFoot--group { 100%, 0% {transform: rotate(0deg)} 25% {transform: rotate(5deg)} 50% {transform: rotate(0deg)} 75% {transform: rotate(-5deg)}}
+        #wapuugotchi_type__wapuu #RightFoot--group { transform-origin: 37% 64%; animation: RightFoot--group 3s 0s 2 normal linear forwards}@keyframes RightFoot--group { 100%, 0% {transform: rotate(0deg)} 25% {transform: rotate(5deg)} 50% {transform: rotate(0deg)} 75% {transform: rotate(-5deg)}}
     </style>
     <style id="animation--swing tail_1">
         #wapuugotchi_type__wapuu #Tail--group { transform-origin: 55% 63%; animation: Tail--group 3s 0s 2 normal ease-in-out forwards}
