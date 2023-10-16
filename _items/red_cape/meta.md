@@ -1,6 +1,6 @@
 ---
 slug: red-cape
-name: red cape
+name: Red cape
 author: Paddy Ullrich
 description: This cape is a gift of Heruu the SuperHero Wapuu. Heruu was discovered at WordCamp Würzburg in 2018.  
 deactivated: 0

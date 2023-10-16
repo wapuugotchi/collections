@@ -1,6 +1,6 @@
 ---
 slug: feather
-name: feather
+name: Feather
 deactivated: 0
 author: Polyglots
 description: This item is a gift from Polyglots Wapuu.
