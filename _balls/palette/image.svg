@@ -1,0 +1,12 @@
+<svg version="1.1" id="wapuugotchi_svg__item" viewBox="0 0 1e3 1e3" xmlns="http://www.w3.org/2000/svg">
+    <g class="Ball--group">
+        <path d="M513.053 495.138c-38.122 7.262-60.512 16-68.185-22.462-7.673-38.461-27.617-40.276-42.77-39.163-22.631 1.646-53.371 31.781-60.512 72.203-7.14 40.422-.145 83.918 25.173 113.763 43.23 51.314 118.192 60.39 170.088 25.003 94.108-64.264 40.857-161.519-23.794-149.344zm-16.628 61.02a24.06 24.06 0 1 1 29.045-17.693 24.06 24.06 0 0 1-29.045 17.694z"
+              style="fill:#e6d3b6;stroke:#000;stroke-width:7.26144px;stroke-linecap:round;stroke-linejoin:round"/>
+        <circle cx="376.441" cy="545.63" r="21.76" style="fill:#f39800;stroke-width:2.42048"/>
+        <circle cx="398.444" cy="600.405" r="21.76" style="fill:#22ac38;stroke-width:2.42048"/>
+        <circle cx="387.261" cy="488.385" r="21.76" style="fill:#e60012;stroke-width:2.42048"/>
+        <circle cx="450.218" cy="628.434" r="21.76" style="fill:#2ea7e0;stroke-width:2.42048"/>
+        <circle cx="509.302" cy="619.333" r="21.76" style="fill:#9e4d0a;stroke-width:2.42048"/>
+        <circle cx="551.587" cy="577.338" r="21.76" style="fill:#9e1b9e;stroke-width:2.42048"/>
+    </g>
+</svg>
