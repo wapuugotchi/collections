@@ -1,8 +1,3 @@
----
-layout: default
-title: WappuuGotchi Collection
-permalink: index.html
----
 # WappuuGotchi Collection
 
 This API provides the wapuu collection for the wapuugotchi plugin. They can be found [here](https://api.wapuugotchi.com/collection/).
