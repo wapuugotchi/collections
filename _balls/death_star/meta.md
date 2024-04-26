@@ -6,5 +6,5 @@ description: This item is a gift from DARK WAPUU and was published during the Wo
 deactivated: 0
 key: ab60352e-2860-4557-b789-21f439d49893
 priority: 10
-price: 20
+price: 10
 ---
