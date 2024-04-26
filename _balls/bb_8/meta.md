@@ -6,5 +6,5 @@ description: This item is a gift from YODUU and was published during the WordCam
 deactivated: 0
 key: 2d8d2920-e2a4-4460-9945-0403a4c1f869
 priority: 10
-price: 20
+price: 10
 ---
