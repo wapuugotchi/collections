@@ -1,6 +1,6 @@
 ---
 slug: wine-glass-item
-name: glass of wine
+name: Glass of wine
 author: Julio Potier
 description: The item is a gift from Marcel, who is the Wapuu of the French community.
 deactivated: 0

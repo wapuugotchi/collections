@@ -1,6 +1,6 @@
 ---
 slug: football
-name: football
+name: Football
 deactivated: 0
 author: Miodrag Veljovic
 description: Created during the CloudFest-Hackathon 2023.
