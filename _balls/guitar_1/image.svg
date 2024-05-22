@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-  <style>
-    #wapuugotchi_type__wapuu #LeftArm--group { transform-origin: 58% 47%; animation: LeftArm--group 0.5s 2s 3 normal linear forwards}@keyframes LeftArm--group { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-20deg)}}
-    #wapuugotchi_type__bear #LeftArm--group { transform-origin: 58% 47%; animation: LeftArm--group 0.5s 2s 3 normal linear forwards}@keyframes LeftArm--group { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-20deg)}}
+	<style xmlns="http://www.w3.org/2000/svg" id="animation--left-arm_lift_1">
+		#wapuugotchi_type__wapuu #LeftArm--group { transform-origin: 60% 48%; animation: LeftArm--group 1s linear 2 normal forwards}@keyframes LeftArm--group { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-10deg)}}
+		#wapuugotchi_type__bear #LeftArm--group { transform-origin: 60% 48%; animation: LeftArm--group 1s linear 2 normal forwards}@keyframes LeftArm--group { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-10deg)}}
   </style>
   <g class="Ball--group">
     <path fill="#214982" d="m374.24 469.043 198.75 73.395c.028 15.176-6.31 31.317-19.382 47.167-5.189 6.29-11.43 12.559-18.547 18.63-3.163 2.698-3.928 5.28-4.737 8.015-.863 2.92-1.843 6.232-5.74 8.929-22.472 15.563-41.073 23.703-64.34 16.21l-.007-.002c-6.843-2.203-13.92-5.692-21.63-10.67-19.946-12.864-22.92-36.57-25.31-55.625-1.465-11.68-2.732-21.772-7.397-26.067-4.34-4.003-9.376-6.837-14.711-9.838-10.86-6.112-22.091-12.435-27.935-29.065-6.078-17.292 2.91-31.434 10.986-41.079z"/>
