@@ -1,14 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-	<style id="animation--left-arm_lift_1">
-		#wapuugotchi_type__wapuu #LeftArm--group { transform-origin: 60% 48%; animation: LeftArm--group 0.3s linear 5 normal forwards}
-		#wapuugotchi_type__bear #LeftArm--group { transform-origin: 60% 48%; animation: LeftArm--group 0.3s linear 5 normal forwards}
-		@keyframes LeftArm--group { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-10deg)}}
-	</style>
-	<style id="animation--left-arm_guitar_left">
-		#wapuugotchi_type__wapuu #RightHand--group, #wapuugotchi_type__wapuu #RightArm--group, #wapuugotchi_type__wapuu #Ball--group { transform-origin: 60% 60%; animation: shake_guitar_1 2s linear 3 5s forwards}
-		#wapuugotchi_type__bear #RightHand--group, #wapuugotchi_type__bear #RightArm--group, #wapuugotchi_type__bear #Ball--group { transform-origin: 60% 60%; animation: shake_guitar_1 2s linear 3 5s forwards}
-		@keyframes shake_guitar_1 { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-3deg)}}
-	</style>
+  <style id="animation--guitar_play_song_1">
+    #wapuugotchi_type__wapuu #LeftArm--group { transform-origin: 60% 48%; animation: guitar_play_a_song_1_1 0.3s linear 5 normal forwards}
+    #wapuugotchi_type__bear #LeftArm--group { transform-origin: 60% 48%; animation: guitar_play_a_song_1_1 0.3s linear 5 normal forwards}
+    @keyframes guitar_play_a_song_1_1 { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-10deg)}}
+  </style>
+  <style id="animation--guitar_play_song_2">
+    #wapuugotchi_type__wapuu #RightHand--group, #wapuugotchi_type__wapuu #RightArm--group, #wapuugotchi_type__wapuu #Ball--group { transform-origin: 60% 60%; animation: guitar_play_a_song_2_1 2s linear 3 5s forwards}
+    #wapuugotchi_type__bear #RightHand--group, #wapuugotchi_type__bear #RightArm--group, #wapuugotchi_type__bear #Ball--group { transform-origin: 60% 60%; animation: guitar_play_a_song_2_1 2s linear 3 5s forwards}
+    @keyframes guitar_play_a_song_2_1 { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-3deg)}}
+  </style>
+  <style  id="animation--guitar_play_song_3">
+    #wapuugotchi_type__wapuu #LeftArm--group { transform-origin: 60% 48%; animation: guitar_play_a_song_3_1 1.4s linear 1 6s forwards}
+    #wapuugotchi_type__bear #LeftArm--group { transform-origin: 60% 48%; animation: guitar_play_a_song_3_1 2.3s linear 1 6s forwards}
+    @keyframes guitar_play_a_song_3_1 { 100%, 0% {transform: rotate(0deg)} 7% {transform: rotate(-10deg)} 14% {transform: rotate(0deg)} 85% {transform: rotate(0deg)} 90% {transform: rotate(-10deg)}}
+    #wapuugotchi_type__wapuu #RightHand--group, #wapuugotchi_type__wapuu #RightArm--group, #wapuugotchi_type__wapuu #Ball--group { transform-origin: 60% 60%; animation: guitar_play_a_song_3_2 1.3s linear 1 6.1s forwards}
+    #wapuugotchi_type__bear #RightHand--group, #wapuugotchi_type__bear #RightArm--group, #wapuugotchi_type__bear #Ball--group { transform-origin: 60% 60%; animation: guitar_play_a_song_3_2 1.3s linear 1 6.1s forwards}
+    @keyframes guitar_play_a_song_3_2 { 100%, 0% {transform: rotate(0deg)} 15% {transform: rotate(-3deg)} 70% {transform: rotate(0deg)} 58% {transform: rotate(0deg)} 65% {transform: rotate(-1deg)} 72% {transform: rotate(0deg)} 79% {transform: rotate(-1deg)} 86% {transform: rotate(0deg)} 93% {transform: rotate(-1deg)}}
+  </style>
   <g class="Ball--group">
     <path fill="#214982" d="m374.24 469.043 198.75 73.395c.028 15.176-6.31 31.317-19.382 47.167-5.189 6.29-11.43 12.559-18.547 18.63-3.163 2.698-3.928 5.28-4.737 8.015-.863 2.92-1.843 6.232-5.74 8.929-22.472 15.563-41.073 23.703-64.34 16.21l-.007-.002c-6.843-2.203-13.92-5.692-21.63-10.67-19.946-12.864-22.92-36.57-25.31-55.625-1.465-11.68-2.732-21.772-7.397-26.067-4.34-4.003-9.376-6.837-14.711-9.838-10.86-6.112-22.091-12.435-27.935-29.065-6.078-17.292 2.91-31.434 10.986-41.079z"/>
     <path fill="#c9c9c7" d="m416.526 431.462 65.382 24.142c.285 4.239.24 8.371.143 12.013-.155 5.78-.315 11.761 1.38 13.316.36.333 1.175.852 2.998 1.439 3.503 1.128 8.965 1.951 15.29 2.9 9.071 1.362 20.358 3.057 30.978 6.477 12.794 4.12 22.072 9.879 28.363 17.617 8.118 9.982 11.91 21.24 11.93 33.072l-198.75-73.395c.449-.536.899-1.218 1.34-1.728 6.494-7.477 13.439-14.095 20.645-19.674 2.806-2.172 5.567-4.508 8.239-6.768 4.087-3.456 7.989-6.62 12.062-9.411zM572.99 542.438c-.05.049 0 0 0 0z"/>
