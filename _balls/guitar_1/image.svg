@@ -1,15 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
   <style id="animation--guitar_play_song_1">
-    #wapuugotchi_type__wapuu #LeftArm--group { transform-origin: 60% 48%; animation: guitar_play_a_song_1_1 0.3s linear 5 normal forwards}
-    #wapuugotchi_type__bear #LeftArm--group { transform-origin: 60% 48%; animation: guitar_play_a_song_1_1 0.3s linear 5 normal forwards}
-    @keyframes guitar_play_a_song_1_1 { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-10deg)}}
+		#wapuugotchi_type__wapuu #LeftArm--group { transform-origin: 60% 48%; animation: guitar_play_a_song_1_1 1.5s linear 5 0s forwards}
+		@keyframes guitar_play_a_song_1_1 { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-10deg)}}
+		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_1 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_2 3.7s linear 2 0s forwards}
+		@keyframes guitar_play_a_song_1_2 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
+		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_2 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_3 3.7s linear 2 0.8s forwards}
+		@keyframes guitar_play_a_song_1_3 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
+		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_3 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_4 3.7s linear 2 1.6s forwards}
+		@keyframes guitar_play_a_song_1_4 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
+		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_4 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_5 3.7s linear 2 2.4s forwards}
+		@keyframes guitar_play_a_song_1_5 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
   </style>
   <style id="animation--guitar_play_song_2">
-    #wapuugotchi_type__wapuu #RightHand--group, #wapuugotchi_type__wapuu #RightArm--group, #wapuugotchi_type__wapuu #Ball--group { transform-origin: 60% 60%; animation: guitar_play_a_song_2_1 2s linear 3 5s forwards}
-    #wapuugotchi_type__bear #RightHand--group, #wapuugotchi_type__bear #RightArm--group, #wapuugotchi_type__bear #Ball--group { transform-origin: 60% 60%; animation: guitar_play_a_song_2_1 2s linear 3 5s forwards}
+    #wapuugotchi_type__wapuu #RightHand--group, #wapuugotchi_type__wapuu #RightArm--group, #wapuugotchi_type__wapuu #Ball--group { transform-origin: 60% 60%; animation: guitar_play_a_song_2_1 2s linear 3 8s forwards}
+    #wapuugotchi_type__bear #RightHand--group, #wapuugotchi_type__bear #RightArm--group, #wapuugotchi_type__bear #Ball--group { transform-origin: 60% 60%; animation: guitar_play_a_song_2_1 2s linear 3 8s forwards}
     @keyframes guitar_play_a_song_2_1 { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-3deg)}}
   </style>
-  <style  id="animation--guitar_play_song_3">
+  <style id="animation--guitar_play_song_3">
     #wapuugotchi_type__wapuu #LeftArm--group { transform-origin: 60% 48%; animation: guitar_play_a_song_3_1 1.4s linear 1 6s forwards}
     #wapuugotchi_type__bear #LeftArm--group { transform-origin: 60% 48%; animation: guitar_play_a_song_3_1 2.3s linear 1 6s forwards}
     @keyframes guitar_play_a_song_3_1 { 100%, 0% {transform: rotate(0deg)} 7% {transform: rotate(-10deg)} 14% {transform: rotate(0deg)} 85% {transform: rotate(0deg)} 90% {transform: rotate(-10deg)}}
@@ -36,5 +43,13 @@
     <path fill="#383434" d="M469.323 507.28a22.688 22.688 0 0 0-14.591-28.922c-12.125-3.904-25.254 2.714-29.322 14.78A22.688 22.688 0 0 0 440 522.061c12.128 3.906 25.254-2.711 29.323-14.781"/>
     <path fill="#211816" d="M441.198 484.453a23.805 23.805 0 0 0-11.227-.82c6.172-5.965 15.36-8.44 24.05-5.642a23.262 23.262 0 0 1 14.962 29.653 23.48 23.801 63.907 0 1-18.84 15.976 23.372 23.692 63.907 0 0 6.015-9.51 23.263 23.263 0 0 0-14.96-29.657"/>
     <path fill="none" stroke="#100f0d" stroke-miterlimit="10" stroke-width="5.378" d="M761.546 332.02c4.182 8.292 15.39 13.68 14.776 20.315-.61 6.636-25.524 2.242-35.784 10.548-10.255 8.3-17.684 18.037-26.732 20.14-12.962 3.015-21.63 6.203-21.63 6.203l-10.932-20.974s6.536-8.84 13.865-17.285c5.42-6.247 19.052-8.436 30.288-14.09 11.235-5.653 14.835-23.922 24.425-24.315 5.372-.22 7.66 11.405 11.724 19.459zM467.875 496.238c0-13.665 11.078-24.746 24.748-24.746 13.665 0 24.746 11.08 24.746 24.746 0 13.67-11.08 24.748-24.746 24.748-13.67 0-24.748-11.078-24.748-24.748z" transform="matrix(-.88724 -.28572 -.29766 .883 1032.152 202.786)"/>
+  </g>
+  <g class="Front--group">
+    <g class="Front--group__colored-guitar">
+      <path class="Front--group__colored-guitar_1" d="M345.768 288.077c-3.677-.922-4.774-4.788-2.115-7.447 1.43-1.43 3.675-1.648 5.64-.55.312.174.59.317.616.317.027 0 .048-1.9.048-4.222.001-13.904.079-14.858 1.214-14.853 1.042.004 1.042.004 1.584 1.128.49 1.016.76 1.351 2.803 3.49 2.535 2.653 3.013 3.251 3.537 4.424 1.484 3.321.798 7.41-1.698 10.122-.698.759-1.118.578-.655-.282 2.049-3.809.494-9.093-3.371-11.451-1.312-.8-1.22-1.06-1.233 3.49-.028 9.929-.144 12.386-.625 13.28-1.075 2.001-3.555 3.103-5.745 2.554z" fill="#000" opacity="0" />
+      <path class="Front--group__colored-guitar_2" d="M304.227 250.932c-3.017-1.153-3.774-4.327-1.604-6.729 1.356-1.5 3.638-1.681 5.684-.449.908.547.704 1.638 1.56-8.343.387-4.527.737-8.491.777-8.81.063-.507 1.706-.795 2.023-.355.041.057-.686 7.703-1.46 15.353-.628 6.208-.655 6.401-1.03 7.174-.96 1.987-3.751 3-5.95 2.159z" fill="#000" opacity="0" />
+      <path class="Front--group__colored-guitar_3" d="M320.607 297.08c-2.132-.586-3.234-2.787-2.33-4.654.92-1.903 3.02-2.58 4.98-1.608 1.012.503 1.037.319 1.484-11.04.03-.782-6.47-4.587-6.934-4.058-.037.042-.181 1.12-.321 2.397-1.023 9.315-1.533 13.129-1.835 13.725-1.638 3.237-6.994 2.285-7.207-1.28-.175-2.935 3.021-4.573 5.67-2.907.688.433.573.824 1.04-3.541.634-5.932 1.301-11.584 1.392-11.787.29-.656 10.046 4.605 10.012 5.398-.067 1.532-.597 10.455-.812 13.66-.186 2.782-.25 3.313-.45 3.704-.826 1.618-2.876 2.489-4.69 1.99z" fill="#000" opacity="0" />
+      <path class="Front--group__colored-guitar_4" d="M350.658 236.983c-2.304-.543-3.635-2.867-2.754-4.808 1.038-2.289 3.45-3.013 5.682-1.705.692.405.602.723.773-2.747.081-1.64.181-3.502.223-4.136.076-1.153.076-1.153-3.686-2.826-3.695-1.643-4.015-1.769-4.016-1.577-.003 1.232-1.448 11.727-1.677 12.186-1.495 2.992-6.617 2.62-7.538-.547-.983-3.381 2.954-5.884 5.994-3.81.632.43.564.714 1.125-4.686.53-5.097 1.297-11.624 1.374-11.701.056-.056 10.363 4.853 10.53 5.015.096.093-.18 5.294-.729 13.726-.275 4.232-.352 4.953-.575 5.413-.786 1.625-2.932 2.625-4.726 2.203zm4.212-18.925c.01-.3-7.218-3.974-7.42-3.772-.948.948-.07 1.82 3.558 3.535 4.033 1.906 3.806 1.892 3.862.237z" fill="#000" opacity="0" />
+    </g>
   </g>
 </svg>
