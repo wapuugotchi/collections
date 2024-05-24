@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="wapuugotchi_svg__wapuu" x="0" y="0" version="1.1" viewBox="0 0 1000 1000">
 	<style id="animation--laptop_touch_1">
-		#RightArm--group, #RightHand--group { transform-origin: 60% 48%; animation: animation--laptop_touch_1_1 6.3s linear 1 0.1s forwards}
-		#LeftArm--group { transform-origin: 60% 48%; animation: animation--laptop_touch_1_2 6.5s linear 1 0s forwards}
+		#RightArm--group, #RightHand--group { transform-origin: 60% 48%; animation: animation--laptop_touch_1_1 6.3s linear infinite 0.1s forwards}
+		#LeftArm--group { transform-origin: 60% 48%; animation: animation--laptop_touch_1_2 6.5s linear infinite 0s forwards}
 		@keyframes animation--laptop_touch_1_1 { 100%, 0% {transform: rotate(0deg)} 4% {transform: rotate(-3deg)} 63% {transform: rotate(-3deg)} 66% {transform: rotate( 0deg)}}
 		@keyframes animation--laptop_touch_1_2 { 100%, 0% {transform: rotate(0deg)} 3% {transform: rotate(-9deg)} 64% {transform: rotate(-9deg)} 67% {transform: rotate( 0deg)}}
 	</style>
