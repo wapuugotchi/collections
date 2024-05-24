@@ -3,13 +3,10 @@
 		#wapuugotchi_type__wapuu #LeftArm--group { transform-origin: 60% 48%; animation: guitar_play_a_song_1_1 1.5s linear infinite 0s forwards}
 		@keyframes guitar_play_a_song_1_1 { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-10deg)}}
 		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_1 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_2 3.7s linear infinite 0s forwards}
+		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_2 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_2 3.7s linear infinite 0.8s forwards}
+		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_3 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_2 3.7s linear infinite 1.6s forwards}
+		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_4 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_2 3.7s linear infinite 2.4s forwards}
 		@keyframes guitar_play_a_song_1_2 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
-		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_2 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_3 3.7s linear infinite 0.8s forwards}
-		@keyframes guitar_play_a_song_1_3 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
-		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_3 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_4 3.7s linear infinite 1.6s forwards}
-		@keyframes guitar_play_a_song_1_4 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
-		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_4 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_5 3.7s linear infinite 2.4s forwards}
-		@keyframes guitar_play_a_song_1_5 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
 	</style>
 	<g id="wapuugotchi_type__wapuu">
 		<g id="RightArm--group">
