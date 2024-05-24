@@ -1,15 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
   <style id="animation--guitar_play_song_1">
-		#wapuugotchi_type__wapuu #LeftArm--group { transform-origin: 60% 48%; animation: guitar_play_a_song_1_1 1.5s linear 5 0s forwards}
+		#LeftArm--group { transform-origin: 60% 48%; animation: guitar_play_a_song_1_1 1.5s linear 5 0s forwards}
 		@keyframes guitar_play_a_song_1_1 { 100%, 0% {transform: rotate(0deg)} 50% {transform: rotate(-10deg)}}
-		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_1 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_2 3.7s linear 2 0s forwards}
-		@keyframes guitar_play_a_song_1_2 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
-		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_2 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_3 3.7s linear 2 0.8s forwards}
-		@keyframes guitar_play_a_song_1_3 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
-		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_3 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_4 3.7s linear 2 1.6s forwards}
-		@keyframes guitar_play_a_song_1_4 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
-		#wapuugotchi_type__wapuu #Front--group .Front--group__colored-guitar_4 { transform-origin: 60% 48%; animation: guitar_play_a_song_1_5 3.7s linear 2 2.4s forwards}
-		@keyframes guitar_play_a_song_1_5 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
+		.Front--group__colored-guitar .Front--group__colored-guitar_1 { transform-origin: 60% 48%; animation: guitar_play_a_song_1 3.7s linear 2 0s forwards}
+		.Front--group__colored-guitar .Front--group__colored-guitar_2 { transform-origin: 60% 48%; animation: guitar_play_a_song_1 3.7s linear 2 0.8s forwards}
+		.Front--group__colored-guitar .Front--group__colored-guitar_3 { transform-origin: 60% 48%; animation: guitar_play_a_song_1 3.7s linear 2 1.6s forwards}
+		.Front--group__colored-guitar .Front--group__colored-guitar_4 { transform-origin: 60% 48%; animation: guitar_play_a_song_1 3.7s linear 2 2.4s forwards}
+		@keyframes guitar_play_a_song_1 { 100%, 0% {transform: rotate(0deg)} 10% {transform:  opacity: 1} 40% {opacity: 1} 50% {transform: rotate(2deg); opacity: 0}}
   </style>
   <style id="animation--guitar_play_song_2">
     #wapuugotchi_type__wapuu #RightHand--group, #wapuugotchi_type__wapuu #RightArm--group, #wapuugotchi_type__wapuu #Ball--group { transform-origin: 60% 60%; animation: guitar_play_a_song_2_1 2s linear 3 8s forwards}
