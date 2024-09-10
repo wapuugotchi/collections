@@ -1,8 +1,8 @@
 <svg version="1.1" id="wapuugotchi_svg__item" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
     <g class="BeforeRightHand--part">
         <style id="wapuugotchi_svg_animation_bb8_3">
-            #wappugotchi-item__kite_1_body { transform-origin: 25.4% 13.3%; animation: wappugotchi-item__kite_1_body_1 3s ease-in-out 0s infinite forwards; }
-            #wappugotchi-item__kite_1_tail { transform-origin: 25.4% 13.3%; animation: wappugotchi-item__kite_1_body_1 3s ease-in-out 0s infinite forwards; }
+            #wappugotchi-item__kite_1_body { transform-origin: 25.4% 13.3%; animation: wappugotchi-item__kite_1_body_1 3s ease-in-out 0s 2 forwards; }
+            #wappugotchi-item__kite_1_tail { transform-origin: 25.4% 13.3%; animation: wappugotchi-item__kite_1_body_1 3s ease-in-out 0s 2 forwards; }
             @keyframes wappugotchi-item__kite_1_body_1 { 0% {transform: rotate(0deg)} 50% {transform: rotate(15deg)} 100% {transform: rotate(0deg) }
         </style>
         <g id="wappugotchi-item__kite_1_body">
