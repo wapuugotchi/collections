@@ -1,11 +1,37 @@
 <svg version="1.1" id="wapuugotchi_svg__item" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
     <g class="BeforeRightHand--part">
         <style id="wapuugotchi_svg_animation_bb8_3">
-            #wappugotchi-item__kite_1_body { transform-origin: 25.4% 13.3%; animation: wappugotchi-item__kite_1_body_1 3s ease-in-out 0s 2 forwards; }
-            #wappugotchi-item__kite_1_tail { transform-origin: 25.4% 13.3%; animation: wappugotchi-item__kite_1_body_1 3s ease-in-out 0s 2 forwards; }
-            @keyframes wappugotchi-item__kite_1_body_1 { 0% {transform: rotate(0deg)} 50% {transform: rotate(15deg)} 100% {transform: rotate(0deg) }
+            .wappugotchi-item__kite_1_body,
+            .wappugotchi-item__kite_1_tail {
+            transform-origin: 25.4% 13.3%;
+            animation-duration: 10s;
+            animation-timing-function: ease-in-out;
+            animation-iteration-count: 2;
+            animation-fill-mode: forwards;
+            }
+
+            .wappugotchi-item__kite_1_body {
+            animation-name: wappugotchi-item__kite_1_body_1;
+            }
+
+            .wappugotchi-item__kite_1_tail {
+            transform-origin: 21.2% 24%;
+            animation-name: wappugotchi-item__kite_1_tail_1;
+            }
+
+            @keyframes wappugotchi-item__kite_1_body_1 {
+            0% { transform: rotate(0deg); }
+            35% { transform: rotate(15deg); }
+            90% { transform: rotate(0deg); }
+            }
+
+            @keyframes wappugotchi-item__kite_1_tail_1 {
+            0% { transform: rotate(0deg); }
+            35% { transform: rotate(50deg); }
+            90% { transform: rotate(0deg); }
+            }
         </style>
-        <g id="wappugotchi-item__kite_1_body">
+        <g class="wappugotchi-item__kite_1_body">
             <polygon fill="#DDB79D" points="254.1,133.7 345.5,158.3 279,47.1"/>
             <polygon fill="#F7CA48" points="163.5,108.5 252.4,133.1 278.9,46.1"/>
             <polygon fill="#484C32" points="163.5,108.5 208.7,293.5 254.1,133.7"/>
@@ -14,11 +40,10 @@
             <line fill="none" stroke="#000000" stroke-width="4" x1="278.9" y1="46.1" x2="208.7" y2="293.5"/>
             <polygon fill="none" stroke="#000000" stroke-width="4" points="344.6,158.4 278.9,46.1 163.5,108.5 208.7,293.5"/>
         </g>
-        <g id="wappugotchi-item__kite_1_tail">
+        <g class="wappugotchi-item__kite_1_tail">
             <path fill="#BC2035" d="M208.6,291.6c0,0-0.1,0.2-0.2,0.5c-1.7,3.6-12.5,24.4-32.7,35.8c-30.1,17-26.8,55.7-26.8,55.7l10.5-11.7l6.9,10.8c0,0-1.5-16.1,4.1-28.2c5.6-12.1,15.6-15.5,24.7-24.3c18.9-18.3,14.6-36.7,14.6-36.7"/>
             <path fill="none" stroke="#000000" stroke-width="4" d="M208.6,291.6c0,0-0.1,0.2-0.2,0.5c-1.7,3.6-12.5,24.4-32.7,35.8c-30.1,17-26.8,55.7-26.8,55.7l10.5-11.7l6.9,10.8c0,0-1.5-16.1,4.1-28.2c5.6-12.1,15.6-15.5,24.7-24.3c18.9-18.3,14.6-36.7,14.6-36.7"/>
         </g>
         <path fill="none" stroke="#000000" stroke-width="4" d="M254.1,133.7C287,330.6,390.5,430,390.5,430s9.2,15-4.3,25.1c-13.4,10-17.6,5.2-18.8,5.7c-1.3,0.5-13.5,28.5-9.4,48.6"/>
-
     </g>
 </svg>
