@@ -85,7 +85,7 @@
   <g class="Front--group">
     <style id="wapuugotchi_svg_animation-autumn__storm_1">
       @keyframes leaf-wiggle{0%{transform:rotate(0deg)}5%{opacity:1}50%{transform:rotate(180deg);transform-origin:60% 55%}95%{opacity:1}100%{transform:rotate(360deg);transform-origin:25% 150%;opacity:0}}
-      .wapuugotchi-item-leaf_storm__element_1,.wapuugotchi-item-leaf_storm__element_2,.wapuugotchi-item-leaf_storm__element_3{opacity:0;transform-origin:100% -50%;animation:leaf-wiggle 10s 1 linear forwards;scale:.7}
+      .wapuugotchi-item-leaf_storm__element_1,.wapuugotchi-item-leaf_storm__element_2,.wapuugotchi-item-leaf_storm__element_3{opacity:0;transform-origin:100% -50%;animation:leaf-wiggle 10s infinite linear forwards;scale:.7}
       .wapuugotchi-item-leaf_storm__element_1{animation-delay:0.5s}
       .wapuugotchi-item-leaf_storm__element_2{animation-delay:1s}
       .wapuugotchi-item-leaf_storm__element_3{animation-delay:1.5s}
