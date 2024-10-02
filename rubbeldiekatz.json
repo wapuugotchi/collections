@@ -1,0 +1,28 @@
+---
+title: Wapuugotchi collection
+permalink: /rubbeldiekatz/
+meta: [name,author,description,published,key]
+---
+{
+    "collections": [
+        {% for collection in site.collections %}{% unless collection.label == "posts" or collection.label == "assets" or collection.label == "icons" %}{
+            "items": {
+                {% assign filtered_items = collection.docs | where: "deactivated", 0 %}{% for item in filtered_items %}"{{ item.slug }}": {
+                    "meta": { {% for var in page.meta %}
+                        "{{ var }}": "{{ item[var] }}",{% endfor %}
+                        "deactivated": {% if item.deactivated != nil %}{{ item.deactivated }}{% else %}0{% endif %},
+                        "priority": {% if item.priority != nil %}{{ item.priority }}{% else %}0{% endif %},
+                        "price": {% if item.price != nil %}{{ item.price }}{% else %}0{% endif %}
+                    },
+                    "image": "{{ item.url  | absolute_url | replace: "meta.html", "image.svg" }}",
+                    "preview": "{{ item.url  | absolute_url | replace: "meta.html", "preview.svg" }}"
+                }{% unless forloop.last %},
+                {% endunless %}{% endfor %}
+            },
+            "image": "{{ site.url }}/assets/icons/{{ collection.label }}.svg",
+            "slug": "{{ collection.label }}",
+            "caption": "{{ collection.label | capitalize }}"
+        }{% unless forloop.last %},
+        {% endunless %}{% endunless %}{% endfor %}
+    ]
+}
