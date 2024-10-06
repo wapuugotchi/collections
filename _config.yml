@@ -13,3 +13,5 @@ collections:
     output: true
   shoes:
     output: true
+  missions:
+    output: true
