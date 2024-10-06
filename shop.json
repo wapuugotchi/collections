@@ -2,11 +2,12 @@
 title: Wapuugotchi collection
 permalink: /shop/
 meta: [name,author,description,published,key]
+labels: [balls,caps,coats,fur,shoes,items]
 ---
 {
-    "collections": [
-        {% for collection in site.collections %}{% unless collection.label == "posts" or collection.label == "assets" or collection.label == "icons" %}{
-            "items": {
+"collections": [
+    {% for collection in site.collections %}{% if page.labels contains collection.label %}{
+        "items": {
                 {% assign filtered_items = collection.docs | where: "deactivated", 0 %}{% for item in filtered_items %}"{{ item.slug }}": {
                     "meta": { {% for var in page.meta %}
                         "{{ var }}": "{{ item[var] }}",{% endfor %}
@@ -23,6 +24,6 @@ meta: [name,author,description,published,key]
             "slug": "{{ collection.label }}",
             "caption": "{{ collection.label | capitalize }}"
         }{% unless forloop.last %},
-        {% endunless %}{% endunless %}{% endfor %}
+        {% endunless %}{% endif %}{% endfor %}
     ]
 }
