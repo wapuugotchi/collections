@@ -1,0 +1,18 @@
+---
+title: Wapuugotchi collection
+permalink: /mission/
+meta: [slug,name,autor,key]
+labels: [missions]
+---
+{
+"collections": [
+    {% for collection in site.collections %}{% if page.labels contains collection.label %}{
+        "missions": {
+            {% assign filtered_items = collection.docs %}{% for item in filtered_items %}
+                    "{{ item.slug }}": {
+                    "image": "{{ item.url  | absolute_url | replace: "meta.html", "image.svg" }}",
+                }{% endfor %}
+            }
+        }{% endif %}{% endfor %}
+    ]
+}
