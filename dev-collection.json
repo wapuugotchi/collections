@@ -8,7 +8,7 @@ labels: [balls,caps,coats,fur,shoes,items]
 "collections": [
     {% for collection in site.collections %}{% if page.labels contains collection.label %}{
         "items": {
-                {% assign filtered_items = collection.docs | where: "deactivated", 0 %}{% for item in filtered_items %}"{{ item.slug }}": {
+                {% for item in collection.docs %}"{{ item.slug }}": {
                     "meta": { {% for var in page.meta %}
                         "{{ var }}": "{{ item[var] }}",{% endfor %}
                         "deactivated": {% if item.deactivated != nil %}{{ item.deactivated }}{% else %}0{% endif %},
