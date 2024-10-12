@@ -11,7 +11,7 @@ labels: [balls,caps,coats,fur,shoes,items]
                 {% for item in collection.docs %}"{{ item.slug }}": {
                     "meta": { {% for var in page.meta %}
                         "{{ var }}": "{{ item[var] }}",{% endfor %}
-                        "deactivated": {% if item.deactivated != nil %}{{ item.deactivated }}{% else %}0{% endif %},
+                        "deactivated": 0,
                         "priority": {% if item.priority != nil %}{{ item.priority }}{% else %}0{% endif %},
                         "price": {% if item.price != nil %}{{ item.price }}{% else %}0{% endif %}
                     },
