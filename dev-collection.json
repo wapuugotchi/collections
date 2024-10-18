@@ -13,7 +13,7 @@ labels: [balls,caps,coats,fur,shoes,items]
                         "{{ var }}": "{{ item[var] }}",{% endfor %}
                         "deactivated": 0,
                         "priority": {% if item.priority != nil %}{{ item.priority }}{% else %}0{% endif %},
-                        "price": {% if item.price != nil %}{{ item.price }}{% else %}0{% endif %}
+                        "price": 0
                     },
                     "image": "{{ item.url  | absolute_url | replace: "meta.html", "image.svg" }}",
                     "preview": "{{ item.url  | absolute_url | replace: "meta.html", "preview.svg" }}"
