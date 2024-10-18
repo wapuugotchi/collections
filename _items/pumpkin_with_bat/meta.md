@@ -1,6 +1,6 @@
 ---
 slug: pumpkin_with_bat
-name: Pumpkin with Bat
+name: Pumpkin With Bat
 author: WapuuGotchi
 description: With this pumpkin, you can celebrate Halloween all year round. Special thanks go to the design team at Kitypaws Design.
 price: 5
