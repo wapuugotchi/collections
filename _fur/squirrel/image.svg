@@ -13,7 +13,7 @@
   </style>
     <style id="animation--swing tail_1">
     #wapuugotchi_type__squirrel #Tail--group { transform-origin: 55% 63%; animation: Tail--group 3s 22s 2 normal ease-in-out forwards}
-    @keyframes Tail--group { 0% {transform: rotate(0deg)} 50% {transform: rotate(12deg)}}
+    @keyframes Tail--group { 0% {transform: rotate(0deg)} 50% {transform: rotate(-5deg)}}
   </style>
     <g id="wapuugotchi_type__squirrel">
         <g id="Background--group" />
