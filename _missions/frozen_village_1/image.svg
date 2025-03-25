@@ -78,7 +78,7 @@
         <use xlink:href="#tree" transform="translate(930.272 56.493)"/>
         <use xlink:href="#tree" transform="translate(866.272 10)"/>
         <use xlink:href="#tree" transform="translate(826.272)"/>
-        <use xlink:href="#yeti" opacity="0" class="visible-at-progress_5" transform="translate(934.952 32.767) scale(.58586)"/>
+        <use xlink:href="#yeti" fill="#fff" opacity="1" class="visible-at-progress_5" transform="translate(934.952 32.767) scale(.58586)"/>
     </g>
     <g fill="#59d4f1">
         <use xlink:href="#mountain" transform="translate(82.436 11.005)"/>
@@ -99,7 +99,7 @@
         <use xlink:href="#tree" transform="translate(764.869 193.428)"/>
         <use xlink:href="#tree" transform="translate(806.045 203.764)"/>
         <use xlink:href="#tree" transform="translate(838.045 161.764)"/>
-        <use xlink:href="#yeti" opacity="0" class="visible-at-progress_4" transform="translate(850 0) scale(.58586) rotate(45)"/>
+        <use xlink:href="#yeti" fill="#fff"  opacity="1" class="visible-at-progress_4" transform="translate(850 0) scale(.58586) rotate(45)"/>
         <use xlink:href="#cristal" transform="translate(788.818 29.491)"/>
     </g>
     <g fill="#59d4f1">
@@ -114,7 +114,7 @@
     <g fill="#59d4f1">
         <use xlink:href="#tree" transform="translate(483.045 191.271)"/>
         <use xlink:href="#tree" transform="translate(514.381 177.737)"/>
-        <use xlink:href="#yeti" opacity="0" class="visible-at-progress_3" transform="translate(473.64 164.63) scale(.58586)"/>
+        <use xlink:href="#yeti" fill="#fff"  opacity="1" class="visible-at-progress_3" transform="translate(473.64 164.63) scale(.58586)"/>
         <use xlink:href="#tree" transform="translate(542.541 200.092)"/>
         <use xlink:href="#tree" transform="translate(570.7 163.082)"/>
         <use xlink:href="#tree" transform="translate(606.045 141.596)"/>
