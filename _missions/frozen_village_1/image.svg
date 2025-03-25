@@ -78,20 +78,20 @@
         <use xlink:href="#tree" transform="translate(930.272 56.493)"/>
         <use xlink:href="#tree" transform="translate(866.272 10)"/>
         <use xlink:href="#tree" transform="translate(826.272)"/>
-        <use xlink:href="#yeti" style="--highlight: #ffffff;" fill="var(--default)" opacity="0" class="visible-at-progress_5" transform="translate(934.952 32.767) scale(.58586)"/>
+        <use xlink:href="#yeti" style="--highlight: #ffffff; --active-oc: 1; --inactive-oc: 0;" fill="var(--default)" opacity="var(--inactive-oc)" class="visible-at-progress_5" transform="translate(934.952 32.767) scale(.58586)"/>
     </g>
     <g fill="#59d4f1">
         <use xlink:href="#mountain" transform="translate(82.436 11.005)"/>
         <use xlink:href="#iglu" transform="translate(-200.227 -45.817) scale(3.7793)"/>
-        <use xlink:href="#yeti" transform="translate(38.005 126.078) scale(.58586)"/>
-        <use xlink:href="#yeti" transform="translate(-21.355 132.038) scale(.58586)"/>
-        <use xlink:href="#yeti" transform="translate(13.074 146.828) scale(.58586)"/>
+        <use xlink:href="#yeti" style="--highlight: #fbd1d1; --active-oc: 1; --inactive-oc: 1;" fill="var(--default)" opacity="var(--inactive-oc)" class="visible-at-progress_1" transform="translate(38.005 126.078) scale(.58586)"/>
+        <use xlink:href="#yeti" style="--highlight: #f9f6c3; --active-oc: 1; --inactive-oc: 1;" fill="var(--default)" opacity="var(--inactive-oc)" class="visible-at-progress_1" transform="translate(-21.355 132.038) scale(.58586)"/>
+        <use xlink:href="#yeti" style="--highlight: #eec3fd; --active-oc: 1; --inactive-oc: 1;" fill="var(--default)" opacity="var(--inactive-oc)" class="visible-at-progress_1" transform="translate(13.074 146.828) scale(.58586)"/>
         <use xlink:href="#iglu" transform="translate(-338.8 -29.238) scale(3.7793)"/>
         <use xlink:href="#tree" transform="translate(12.403 169.875)"/>
         <use xlink:href="#tree" transform="translate(150.125 156.06)"/>
         <use xlink:href="#tree" transform="translate(182.92 160.067)"/>
         <use xlink:href="#tree" transform="translate(166.565 162.279)"/>
-        <use xlink:href="#yeti" transform="translate(97.139 148.104) scale(.58586)"/>
+        <use xlink:href="#yeti" style="--highlight: #d4f9c6; --active-oc: 1; --inactive-oc: 1;" fill="var(--default)" opacity="var(--inactive-oc)" class="visible-at-progress_1" transform="translate(97.139 148.104) scale(.58586)"/>
     </g>
     <g fill="#59d4f1">
         <use xlink:href="#tree" transform="translate(732.045 176.764)"/>
@@ -99,7 +99,7 @@
         <use xlink:href="#tree" transform="translate(764.869 193.428)"/>
         <use xlink:href="#tree" transform="translate(806.045 203.764)"/>
         <use xlink:href="#tree" transform="translate(838.045 161.764)"/>
-        <use xlink:href="#yeti" style="--highlight: #ffffff;" fill="var(--default)"  opacity="0" class="visible-at-progress_4" transform="translate(850 0) scale(.58586) rotate(45)"/>
+        <use xlink:href="#yeti" style="--highlight: #ffffff; --active-oc: 1; --inactive-oc: 0;" fill="var(--default)" opacity="var(--inactive-oc)" class="visible-at-progress_4" transform="translate(850 0) scale(.58586) rotate(45)"/>
         <use xlink:href="#cristal" transform="translate(788.818 29.491)"/>
     </g>
     <g fill="#59d4f1">
@@ -114,7 +114,7 @@
     <g fill="#59d4f1">
         <use xlink:href="#tree" transform="translate(483.045 191.271)"/>
         <use xlink:href="#tree" transform="translate(514.381 177.737)"/>
-        <use xlink:href="#yeti" style="--highlight: #ffffff;" fill="var(--default)" opacity="0" class="visible-at-progress_3" transform="translate(473.64 164.63) scale(.58586)"/>
+        <use xlink:href="#yeti" style="--highlight: #ffffff; --active-oc: 1; --inactive-oc: 0;" fill="var(--default)" opacity="var(--inactive-oc)" class="visible-at-progress_3" transform="translate(473.64 164.63) scale(.58586)"/>
         <use xlink:href="#tree" transform="translate(542.541 200.092)"/>
         <use xlink:href="#tree" transform="translate(570.7 163.082)"/>
         <use xlink:href="#tree" transform="translate(606.045 141.596)"/>
