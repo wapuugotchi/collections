@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="wapuugotchi_svg__wapuu" class="color_pick_able" x="0" y="0" version="1.1" viewBox="0 0 1000 1000" style="--wapuu-color-1: #ffcc00; --wapuu-color-2: #ff8800; --wapuu-color-3: #ff8800;" data-color-1="Body" data-color-2="Ears" data-color-3="Tail">
+<svg xmlns="http://www.w3.org/2000/svg" id="wapuugotchi_svg__wapuu" class="color_pick_able" x="0" y="0" version="1.1" viewBox="0 0 1000 1000" style="--wapuu-color-1: #ffcc00; --wapuu-color-2: #ff8800; --wapuu-color-3: #ff8800;" data-color-1="Wapuu Body" data-color-2="Wapuu Ears" data-color-3="Wapuu Tail">
   <style id="animation--nose_wiggle_1">
     #wapuugotchi_type__wapuu #Face--group__nose { transform-origin: 55% 63%; animation: Face--group__nose 0.3s 0s 4 normal linear forwards}
     @keyframes Face--group__nose { 100,0% {transform: rotate(0deg)} 25% {transform: rotate(-0.3deg)} 75% {transform: rotate(0.3deg)}}
