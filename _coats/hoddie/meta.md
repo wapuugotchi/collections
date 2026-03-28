@@ -1,6 +1,6 @@
 ---
 slug: gray_hoodie_1
-name: Gray Hoodie
+name: Hoodie
 author: marktimemedia
 description: This hoodie is a gift from DEV WAPUU.
 price: 5
