@@ -7,4 +7,5 @@ deactivated: 0
 key: 31cd43a3-feda-4tf7-9e12-1d309751fa79
 priority: 20
 price: 7
+colored: 1
 ---
