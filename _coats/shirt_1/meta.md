@@ -1,6 +1,6 @@
 ---
-slug: gray-coat
-name: Gray
+slug: shirt
+name: Simple Shirt
 author: Miodrag Veljovic
 description: Created during the CloudFest-Hackathon 2023.
 price: 3
