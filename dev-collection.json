@@ -3,6 +3,13 @@ title: Wapuugotchi collection
 permalink: /dev-collection/
 meta: [name,author,description,published,key]
 labels: [balls,caps,coats,fur,shoes,items]
+captions:
+  fur: Avatar
+  coats: Body
+  shoes: Feet
+  balls: Hands
+  caps: Head
+  items: Accessories
 ---
 {
 "collections": [
@@ -22,7 +29,7 @@ labels: [balls,caps,coats,fur,shoes,items]
             },
             "image": "{{ site.url }}/assets/icons/{{ collection.label }}.svg",
             "slug": "{{ collection.label }}",
-            "caption": "{{ collection.label | capitalize }}"
+            "caption": "{{ page.captions[collection.label] }}"
         }{% unless forloop.last %},
         {% endunless %}{% endif %}{% endfor %}
     ]
