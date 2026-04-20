@@ -2,7 +2,7 @@
 title: Wapuugotchi collection
 permalink: /collection/
 meta: [name,author,description,published,key]
-labels: [balls,caps,coats,fur,shoes,items]
+labels: [fur,coats,caps,balls,shoes,items]
 captions:
   fur: Avatar
   coats: Body
