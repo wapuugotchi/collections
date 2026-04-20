@@ -13,7 +13,7 @@ captions:
 ---
 {
 "collections": [
-    {% for collection in site.collections %}{% if page.labels contains collection.label %}{
+    {% for label in page.labels %}{% assign collection = site.collections | where: "label", label | first %}{% if collection %}{
         "items": {
                 {% assign filtered_items = collection.docs | where: "deactivated", 0 %}{% for item in filtered_items %}"{{ item.slug }}": {
                     "meta": { {% for var in page.meta %}
