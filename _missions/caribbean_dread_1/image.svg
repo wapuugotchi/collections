@@ -89,20 +89,20 @@
     </defs>
     <use href="#map"/>
     <use href="#maw" />
-    <use href="#maw" style="--maw-inside: #ffc206; --maw-outside: #6a5454; --active-oc: 1; --inactive-oc: 0;" opacity="var(--inactive-oc)" class="visible-at-progress_4" />
+    <use href="#maw" style="--maw-inside: #ffc206; --maw-outside: #6a5454; --active-oc: 1; --inactive-oc: 0;" opacity="var(--inactive-oc)" class="visible-at-progress_3" />
     <use href="#wreck" />
-    <use href="#wreck" style="--wreck-light: #ffcc55; --wreck-sail: #CFC5A8; --active-oc: 1; --inactive-oc: 0;" opacity="var(--inactive-oc)" class="visible-at-progress_2" />
+    <use href="#wreck" style="--wreck-light: #ffcc55; --wreck-sail: #CFC5A8; --active-oc: 1; --inactive-oc: 0;" opacity="var(--inactive-oc)" class="visible-at-progress_1" />
     <use href="#monster" />
-    <use href="#monster" style="--monster_maw: #500; --monster_body: #636c02; --active-oc: 1; --inactive-oc: 0;" opacity="var(--inactive-oc)" class="visible-at-progress_3" />
+    <use href="#monster" style="--monster_maw: #500; --monster_body: #636c02; --active-oc: 1; --inactive-oc: 0;" opacity="var(--inactive-oc)" class="visible-at-progress_4" />
     <use href="#reef" transform="translate(-699.36 169.205)"/>
     <use href="#reef" />
     <use href="#island"/>
     <use href="#hut" transform="rotate(-3.011 108.874 184.412)"/>
     <use href="#hut" transform="rotate(3.725 149.891 833.38)"/>
     <use href="#villager" transform="rotate(6.506 519.416 654.817)" />
-    <use href="#villager" transform="rotate(6.506 519.416 654.817)" style="--bone: #a78f6a; --body: #b3785a; --ribbon: #5e4a3a; --face: #D8C7F2; --active-oc: 1; --inactive-oc: 0;" opacity="var(--inactive-oc)" class="visible-at-progress_1" />
+    <use href="#villager" transform="rotate(6.506 519.416 654.817)" style="--bone: #a78f6a; --body: #b3785a; --ribbon: #5e4a3a; --face: #D8C7F2; --active-oc: 1; --inactive-oc: 0;" opacity="var(--inactive-oc)" class="visible-at-progress_2" />
     <use href="#villager" transform="rotate(-3.682 -583.707 -152.665)" />
-    <use href="#villager" transform="rotate(-3.682 -583.707 -152.665)" style="--bone: #a78f6a; --body: #b3785a; --ribbon: #5e4a3a; --face: #E6B7C2; --active-oc: 1; --inactive-oc: 0;" opacity="var(--inactive-oc)" class="visible-at-progress_1" />
+    <use href="#villager" transform="rotate(-3.682 -583.707 -152.665)" style="--bone: #a78f6a; --body: #b3785a; --ribbon: #5e4a3a; --face: #E6B7C2; --active-oc: 1; --inactive-oc: 0;" opacity="var(--inactive-oc)" class="visible-at-progress_2" />
     <use href="#treasure" />
     <use href="#treasure" style="--treasure-pearl: #ddddff; --treasure-gold: #ffff00; --treasure-ruby: #ff0000; --active-oc: 1; --inactive-oc: 0;" opacity="var(--inactive-oc)" class="visible-at-progress_5" />
     <use href="#wave_a"/>
