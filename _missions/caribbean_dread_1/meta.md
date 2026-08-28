@@ -1,6 +1,6 @@
 ---
-slug: frozen_village_1
-name: Frozen Village
-key: 279595de-d6e9-4f43-9c18-4dfa5dfd1e89
+slug: caribbean_dread_1
+name: Caribbean Dread
+key: d4cd2013-9649-4c3a-a329-173ec1f69d1c
 author: Wapuugotchi & Kitypaws Design
 ---
