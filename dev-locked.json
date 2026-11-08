@@ -1,6 +1,6 @@
 ---
 title: Wapuugotchi collection
-permalink: /dev-free/
+permalink: /dev-locked/
 meta: [name,author,description,published,key]
 labels: [fur,coats,caps,balls,shoes,items]
 captions:
@@ -20,7 +20,8 @@ captions:
                         "{{ var }}": "{{ item[var] }}",{% endfor %}
                         "deactivated": 0,
                         "priority": {% if item.priority != nil %}{{ item.priority }}{% else %}0{% endif %},
-                        "price": 0,
+                        "price": {% if item.price != nil %}{{ item.price }}{% else %}0{% endif %},
+                        "colored": {% if item.colored != nil %}{{ item.colored }}{% else %}0{% endif %},
                         "reward": "{{ item.reward | default: 0 }}"
                     },
                     "image": "{{ item.url  | absolute_url | replace: "meta.html", "image.svg" }}",
