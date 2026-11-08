@@ -6,4 +6,5 @@ description: Created during the CloudFest-Hackathon 2023 for the accessibility p
 deactivated: 0
 key: 870cb3a1-4448-49ae-b815-11e9c2617159
 price: 3
+reward: 0
 ---

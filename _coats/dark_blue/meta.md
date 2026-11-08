@@ -5,4 +5,5 @@ author: Mio
 price: 0
 deactivated: 1
 key: 772c7e63-1a36-4da8-af21-32ba26eda425
+reward: 0
 ---

@@ -31,6 +31,7 @@ Other optional values are:
 * published: the publishing date of the element
 * licsense: the license of the element
 * price: the needed coins for unlocking the element (default: 0)
+* reward: the reward token that unlocks the element (default: 0, meaning not bound to a reward)
 
 Scanned folders are:
 

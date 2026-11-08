@@ -6,4 +6,5 @@ description: This high heels where designed by Kitypaws design in June 2024 to c
 deactivated: 0
 price: 5
 key: f1466dd9-60e4-4317-b2a4-61f4c6bd16a6
+reward: 0
 ---

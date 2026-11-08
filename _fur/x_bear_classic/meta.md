@@ -7,4 +7,5 @@ author: Martin Purrer
 description: \"Wapuu der Ber\" was discovered on October 23, 2015 at WordCamp Berlin.
 price: 0
 colored: 1
+reward: 0
 ---

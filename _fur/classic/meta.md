@@ -7,4 +7,5 @@ author: Kazuko Kaneuchi
 description: Wapuu was discovered on February 19, 2011 at WordCamp Fukuoka.
 price: 0
 colored: 1
+reward: 0
 ---

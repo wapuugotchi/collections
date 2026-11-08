@@ -6,4 +6,5 @@ description: This beanie was designed by Kitypaws Design design in June 2024 to 
 deactivated: 0
 price: 5
 key: c34a3cbb-5baf-4ef6-889b-ccf55922ed15
+reward: 0
 ---

@@ -8,4 +8,5 @@ deactivated: 0
 priority: 100
 key: 9cb067c6-0449-4d4b-99f8-87369c4cc916
 colored: 1
+reward: 0
 ---

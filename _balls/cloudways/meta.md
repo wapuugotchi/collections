@@ -7,4 +7,5 @@ deactivated: 1
 key: 42a1d7f9-0b13-424d-ac83-afeaaedd4287
 priority: 100
 price: 2
+reward: 0
 ---

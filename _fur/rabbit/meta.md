@@ -7,4 +7,5 @@ author: WapuuGotchi & Kitypaws Design
 description: \"Wapuu The Rabbit\" was discovered on April 28th, 2025.
 price: 8
 colored: 1
+reward: 0
 ---

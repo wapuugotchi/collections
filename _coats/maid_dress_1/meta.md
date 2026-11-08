@@ -7,4 +7,5 @@ price: 5
 deactivated: 0
 key: dddaa51f-fe2b-4dca-8cdc-41bd6289b4f5
 colored: 1
+reward: 0
 ---

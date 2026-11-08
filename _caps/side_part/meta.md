@@ -6,4 +6,5 @@ description: This item is a gift from ART WAPUU and was published during WordCam
 deactivated: 0
 key: 2dfa55fd-e1cb-47a9-9bdc-f622a0585ba8
 price: 4
+reward: 0
 ---

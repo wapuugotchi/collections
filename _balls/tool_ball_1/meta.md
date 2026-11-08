@@ -7,4 +7,5 @@ deactivated: 0
 key: 8783c2fa-6cd2-4225-9ed3-7ec61444af9b
 priority: 20
 price: 5
+reward: 0
 ---

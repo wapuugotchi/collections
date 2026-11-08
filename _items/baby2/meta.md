@@ -6,4 +6,5 @@ description: This eating wapuu is a gift from Fami-Wapuu, discovered at WordCamp
 deactivated: 0
 key: 870cb3a1-4448-49ae-b815-11eh4m907159
 price: 3
+reward: 0
 ---

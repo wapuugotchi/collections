@@ -6,4 +6,5 @@ description: These grapes are a gift from Wapuu Auguste, who was discovered at W
 deactivated: 0
 key: 17b2959d-b99f-49e0-ac85-00fc80c3f7df
 price: 4
+reward: 0
 ---

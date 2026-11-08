@@ -7,4 +7,5 @@ author: Kitypaws Design
 description: \"Wapuu the Squirrel\" was discovered on October 22, 2025. 
 price: 0
 colored: 1
+reward: 0
 ---

@@ -8,4 +8,5 @@ key: 22gui06-67a9-493f-9f59-2c4ab7m8f3w1
 priority: 20
 price: 7
 colored: 1
+reward: 0
 ---

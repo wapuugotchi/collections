@@ -6,4 +6,5 @@ description: This item is a gift from DEV WAPUU.
 price: 5
 deactivated: 0
 key: c4c2dabe-f290-4a81-94a4-3ffa3587a590
+reward: 0
 ---

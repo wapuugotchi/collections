@@ -6,4 +6,5 @@ description: This item is a gift from REGAL WAPUU and was created to be the offi
 deactivated: 0
 key: ee77zt91-d3fa-4506-ae20-d6f7ad266d75
 price: 5
+reward: 0
 ---

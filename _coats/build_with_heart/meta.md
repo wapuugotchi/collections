@@ -7,4 +7,5 @@ price: 2
 deactivated: 1
 priority: 100
 key: af1fbc1f-b2df-4cad-b245-269946b869c5
+reward: 0
 ---

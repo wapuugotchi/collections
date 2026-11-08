@@ -6,4 +6,5 @@ description: With this bamboo branch, we celebrate the Japanese Star Festival (T
 deactivated: 0
 key: c187fa2b-a7dc-4930-8f97-ca3dbac9acc3
 price: 5
+reward: 0
 ---

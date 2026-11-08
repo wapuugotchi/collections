@@ -6,4 +6,5 @@ description: With this pumpkin lantern you can scare away the ghosts and ghouls 
 price: 4
 deactivated: 0
 key: 20fcf362-6db3-44fd-a21b-bcad7c3ffcaa
+reward: 0
 ---

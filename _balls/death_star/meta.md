@@ -7,4 +7,5 @@ deactivated: 0
 key: ab60352e-2860-4557-b789-21f439d49893
 priority: 10
 price: 10
+reward: 0
 ---

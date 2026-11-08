@@ -7,4 +7,5 @@ author: WapuuGotchi & Kitypaws Design
 description: Wapuu will encounter this little monkey during his mission at sea.
 price: 0
 colored: 1
+reward: caribbean_dread
 ---
