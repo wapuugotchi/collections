@@ -1,0 +1,37 @@
+---
+title: Wapuugotchi collection
+permalink: /dev-free/
+meta: [name,author,description,published,key]
+labels: [fur,coats,caps,balls,shoes,items]
+captions:
+  fur: Avatar
+  coats: Body
+  shoes: Feet
+  balls: Hands
+  caps: Head
+  items: Accessories
+---
+{
+"collections": [
+    {% for label in page.labels %}{% assign collection = site.collections | where: "label", label | first %}{% if collection %}{
+        "items": {
+                {% for item in collection.docs %}"{{ item.slug }}": {
+                    "meta": { {% for var in page.meta %}
+                        "{{ var }}": "{{ item[var] }}",{% endfor %}
+                        "deactivated": 0,
+                        "priority": {% if item.priority != nil %}{{ item.priority }}{% else %}0{% endif %},
+                        "price": 0,
+                        "reward": "{{ item.reward | default: 0 }}"
+                    },
+                    "image": "{{ item.url  | absolute_url | replace: "meta.html", "image.svg" }}",
+                    "preview": "{{ item.url  | absolute_url | replace: "meta.html", "preview.svg" }}"
+                }{% unless forloop.last %},
+                {% endunless %}{% endfor %}
+            },
+            "image": "{{ site.url }}/assets/icons/{{ collection.label }}.svg",
+            "slug": "{{ collection.label }}",
+            "caption": "{{ page.captions[collection.label] }}"
+        }{% unless forloop.last %},
+        {% endunless %}{% endif %}{% endfor %}
+    ]
+}
