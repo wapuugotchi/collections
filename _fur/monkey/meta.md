@@ -7,5 +7,5 @@ author: WapuuGotchi & Kitypaws Design
 description: This little monkey joins Wapuu after the Caribbean Dread adventure. Complete the mission to unlock it.
 price: 0
 colored: 1
-reward: caribbean_dread<
+reward: caribbean_dread
 ---
