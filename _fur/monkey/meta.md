@@ -1,7 +1,7 @@
 ---
 slug: monkey
 name: Monkey
-deactivated: 0
+deactivated: 1
 key: db377704-bc8e-4783-a853-b63f5e4c375b
 author: WapuuGotchi & Kitypaws Design
 description: This little monkey joins Wapuu after the Caribbean Dread adventure. Complete the mission to unlock it.
